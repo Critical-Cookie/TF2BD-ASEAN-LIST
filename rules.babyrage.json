@@ -55,10 +55,16 @@
 			"triggers": {
 				"avatar_match": [
 					{
-						"avatar_hash": "AFADFCF335E28392FEE81F58C5BCD783BDD4DDCB"
+						"avatar_hash": "71c1def5db7630fc31503447e80975a31178ac3e"
 					},
 					{
-						"avatar_hash": "A34BA551DC86C7338AE13BA200F2AE0FDBC0FADF"
+						"avatar_hash": "8b6ac7f47465876f01d72db54f5a2d7e00fb45ec"
+					},
+					{
+						"avatar_hash": "f9b0bb43e27bd415747f6dd49a041c39f6111e98"
+					},
+					{
+						"avatar_hash": "fb6b7d8a9440856dcc5b66966ba75a7a91822c54"
 					}
 				]
 				}
@@ -73,16 +79,9 @@
 			"triggers": {
 				"avatar_match": [
 					{
-						"avatar_hash": "33607E45E10AF4088C020CB6F9BFD7BD89698A2C"
+						"avatar_hash": "2c88839eb681a3d546d433f7784b29eb5e2bd7a4"
 					}
-				],
-				"mode": "match_any",
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"_Femboy"
-					]
+				]
 				}
 			}
 		},
