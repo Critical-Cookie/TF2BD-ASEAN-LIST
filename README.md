@@ -15,10 +15,11 @@ as this pet project of mine is extremely new and for authenticity reasons.
 This way you will have only me and my hatred for bots to trust for the given material.
 
 # Ok cool, how do I use this then?
-Save any of the individual json files within your TF2 Bot Detectors cfg folder, 
-and leave the names as they are
+Download the entire contents as a zip file via cicking the CODE dropdown.
 
-"playerlist.babyrage.json" and "rules.babyrage.json"
+Save any of the individual json files that you want to use 
+within your TF2 Bot Detectors cfg folder, and don't change the file names.
+
 
 Start up TF2 BD and the tool will take care of the rest
 
