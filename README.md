@@ -9,13 +9,13 @@ The playerlist.babyrage.json is made for BOTH BOTS AND VERIFIED BOT HOSTERS WITH
 that are not found within the TF2 BD's official list
 
 # Can I contribute?
-At the moment I will be the only Author, 
+At the moment I will be the only Author, as this pet project of mine is extremely new.
+This is also done for authenticity and trust reasons. 
 
-as this pet project of mine is extremely new and for authenticity reasons. 
-This way you will have only me and my hatred for bots to trust for the given material.
+This way you will have only me and my hatred for bots to give your trust.
 
 # Ok cool, how do I use this then?
-Download the entire contents as a zip file via cicking the CODE dropdown.
+You can download the entire contents as a zip file via clicking the CODE dropdown.
 
 Save any of the individual json files that you want to use 
 within your TF2 Bot Detectors cfg folder, and don't change the file names.
