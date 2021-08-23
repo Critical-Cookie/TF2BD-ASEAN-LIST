@@ -32,5 +32,5 @@ and remove the entire line that starts with...
 
 (please don't just remove the URL, as update_url will attempt to look for a URL that's not there, not find it, and will not accept the list/ruleset into the tool)
 
-# I found UUID's in the list or Rules that are targetting legitimate players!
+# I found UUID's or Rules that are targetting legitimate players!
 I am currently contactable for any reason via cookiecomplaints@whowho.anonaddy.me
