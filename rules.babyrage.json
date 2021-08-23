@@ -1,0 +1,108 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"Critical-Cookie"
+		],
+		"description": "This is a WIP Ruleset for any bots found prominent in S.E.A servers such as Babyrage, Enigmaballz and EAC |Texashook",
+		"title": "Babyrage and Friends 2 - Ruleset Boogaloo!",
+		"update_url": ""
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Babyrage Bot detection in-game name",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"discord.io/babyrage"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Babyrage Bot detection Steam name",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Babyrage Inc - Laptop",
+						"Babyrage Inc - PC",
+						"[ATG] Serrabella"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "babyrage avatar match",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "AFADFCF335E28392FEE81F58C5BCD783BDD4DDCB"
+					},
+					{
+						"avatar_hash": "A34BA551DC86C7338AE13BA200F2AE0FDBC0FADF"
+					}
+				]
+				}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "EAC | Texashook avatar match",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "33607E45E10AF4088C020CB6F9BFD7BD89698A2C"
+					}
+				],
+				"mode": "match_any",
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"_Femboy"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "EAC | Texashook detection Steam name",
+			"triggers": {
+				"mode": "match_any",
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"_Femboy"
+					]
+				}
+			}
+		}
+	]
+}
