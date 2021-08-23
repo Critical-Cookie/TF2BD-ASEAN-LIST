@@ -14,6 +14,9 @@ This is also done for authenticity and trust reasons.
 
 This way you will have only me and my hatred for bots to give your trust.
 
+I will be allowing public contributions in the future for me and a set of trusted authors to filter through,
+but as of now, I'd like this project to be maintained by just me.
+
 # Ok cool, how do I use this then?
 You can download the entire contents as a zip file via clicking the CODE dropdown.
 
