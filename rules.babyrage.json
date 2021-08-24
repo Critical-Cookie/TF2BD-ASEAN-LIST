@@ -19,10 +19,9 @@
 			"triggers": {
 				"mode": "match_any",
 				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
 					"patterns": [
-						"Babyrage",
+						"Babyrage Inc - Laptop",
+						"Babyrage Inc - PC",
 						"[ATG] Serrabella"
 					]
 				}
@@ -85,8 +84,6 @@
 			"triggers": {
 				"mode": "match_any",
 				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
 					"patterns": [
 						"_Femboy"
 					]
