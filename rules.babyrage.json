@@ -73,7 +73,25 @@
 						"avatar_hash": "2c88839eb681a3d546d433f7784b29eb5e2bd7a4"
 					}
 				]
-				}
-		}
+			}
+		},
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "EAC | Texashook Steam or ingame name",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "Texashook",
+                                                "_Femboy"
+                                        ]
+                                }
+                        }
+                }
 	]
 }
