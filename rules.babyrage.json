@@ -49,16 +49,11 @@
 					},
 					{
 						"avatar_hash": "fb6b7d8a9440856dcc5b66966ba75a7a91822c54"
+					},
+					{
+						"avatar_hash": "732cc3b93c9c94d182aac5690dd17cdd8677098e"
 					}
-				],
-				"mode": "match_any",
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"discord.io/babyrage"
-					]
-				}
+				]
 			}
 		},
 		{
