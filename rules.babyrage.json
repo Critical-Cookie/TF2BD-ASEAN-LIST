@@ -21,9 +21,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"Babyrage Inc - Laptop",
-						"Babyrage Inc - PC",
-						"[ATG] Serrabella"
+						"Babyrage",
+						"Serrabella"
 					]
 				}
 			}
@@ -74,23 +73,6 @@
 					}
 				]
 				}
-			},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "Texashook Steam Name detection",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"_Femboy"
-					]
-				}
-			}
 		}
 	]
 }
