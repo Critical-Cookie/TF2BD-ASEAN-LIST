@@ -22,7 +22,7 @@
 					"mode": "contains",
 					"patterns": [
 						"discord.io/babyrage",
-						"John Citruous"
+						"Citruous"
 					]
 				}
 			}
@@ -35,13 +35,13 @@
 			},
 			"description": "Babyrage Bot detection Steam name",
 			"triggers": {
-				"username_text_match": {
+				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"Babyrage Inc - Laptop",
-						"Babyrage Inc - PC",
-						"[ATG] Serrabella"
+						"Babyrage",
+						"[ATG]",
+						"Serrabella"
 					]
 				}
 			}
@@ -94,7 +94,7 @@
 			"description": "EAC | Texashook detection Steam name",
 			"triggers": {
 				"mode": "contains",
-				"username_text_match": {
+				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
