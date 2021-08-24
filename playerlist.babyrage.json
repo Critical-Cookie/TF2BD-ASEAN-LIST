@@ -25,6 +25,12 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:362098865]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:389658890]"
 		},
 		{
@@ -523,6 +529,12 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:1233167485]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:1233283281]"
 		},
 		{
@@ -595,6 +607,12 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:1236907817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:1237045488]"
 		},
 		{
@@ -657,19 +675,6 @@
 			],
 			"steamid": "[U:1:1237780771]"
 		},
-                {
-
-                        "attributes": [
-                                "cheater"
-                        ],
-                        "steamid": "[U:1:362098865]"
-                },
-                {
-                        "attributes": [
-                                "cheater"
-                        ],
-                        "steamid": "[U:1:838901039]"
-                },
 		{
 			"attributes": [
 				"cheater"
@@ -680,7 +685,50 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:1240954918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1241135330]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1241146067]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:1241302523]"
-		}
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1241309546]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1241419358]"
+		},
+
+                {
+                        "attributes": [
+                                "cheater"
+                        ],
+                        "steamid": "[U:1:362098865]"
+                },
+                {
+                        "attributes": [
+                                "cheater"
+                        ],
+                        "steamid": "[U:1:838901039]"
+                }
 	]
 }
