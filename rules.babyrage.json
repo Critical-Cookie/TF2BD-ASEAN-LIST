@@ -17,7 +17,7 @@
 			},
 			"description": "Babyrage Steamname",
 			"triggers": {
-				"personaname_text_match": {
+				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
@@ -83,7 +83,7 @@
 			},
 			"description": "Texashook Steam Name detection",
 			"triggers": {
-				"personaname_text_match": {
+				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
