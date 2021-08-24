@@ -15,26 +15,9 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Bot detection in-game name",
+			"description": "Babyrage Steam name",
 			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"discord.io/babyrage",
-						"Citruous"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "Babyrage Bot detection Steam name",
-			"triggers": {
+				"mode": "match_any",
 				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
@@ -52,7 +35,7 @@
 					"cheater"
 				]
 			},
-			"description": "babyrage avatar match",
+			"description": "Babyrage avatar or name",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -67,8 +50,16 @@
 					{
 						"avatar_hash": "fb6b7d8a9440856dcc5b66966ba75a7a91822c54"
 					}
-				]
+				],
+				"mode": "match_any",
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"discord.io/babyrage"
+					]
 				}
+			}
 		},
 		{
 			"actions": {
@@ -93,7 +84,7 @@
 			},
 			"description": "EAC | Texashook detection Steam name",
 			"triggers": {
-				"mode": "contains",
+				"mode": "match_any",
 				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
