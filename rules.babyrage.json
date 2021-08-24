@@ -22,7 +22,8 @@
 					"mode": "contains",
 					"patterns": [
 						"Babyrage",
-						"Serrabella"
+						"Serrabella",
+						"[ATG]"
 					]
 				}
 			}
