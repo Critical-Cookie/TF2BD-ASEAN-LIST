@@ -15,9 +15,10 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Steam name",
+			"description": "Babyrage Steamname",
 			"triggers": {
 				"personaname_text_match": {
+					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
 						"Babyrage Inc - Laptop",
@@ -80,9 +81,10 @@
 					"cheater"
 				]
 			},
-			"description": "EAC | Texashook detection Steam name",
+			"description": "Texashook Steam Name detection",
 			"triggers": {
 				"personaname_text_match": {
+					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
 						"_Femboy"
