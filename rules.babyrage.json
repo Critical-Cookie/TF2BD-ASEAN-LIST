@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Steamname",
+			"description": "Babyrage Steam or ingame name",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -33,7 +33,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage avatar or name",
+			"description": "Babyrage avatar match or URL name",
 			"triggers": {
 				"avatar_match": [
 					{
