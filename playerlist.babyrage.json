@@ -657,13 +657,18 @@
 			],
 			"steamid": "[U:1:1237780771]"
 		},
-
                 {
 
                         "attributes": [
-                                "suspicious"
+                                "cheater"
                         ],
                         "steamid": "[U:1:362098865]"
+                },
+                {
+                        "attributes": [
+                                "cheater"
+                        ],
+                        "steamid": "[U:1:838901039]"
                 }
 	]
 }
