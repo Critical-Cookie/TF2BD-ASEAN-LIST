@@ -17,8 +17,8 @@
 			},
 			"description": "Babyrage Steam name",
 			"triggers": {
-				"mode": "match_any",
 				"personaname_text_match": {
+					"mode": "contains",
 					"patterns": [
 						"Babyrage Inc - Laptop",
 						"Babyrage Inc - PC",
@@ -82,8 +82,8 @@
 			},
 			"description": "EAC | Texashook detection Steam name",
 			"triggers": {
-				"mode": "match_any",
 				"personaname_text_match": {
+					"mode": "contains",
 					"patterns": [
 						"_Femboy"
 					]
