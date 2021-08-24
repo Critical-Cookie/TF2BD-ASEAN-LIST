@@ -656,6 +656,14 @@
 				"cheater"
 			],
 			"steamid": "[U:1:1237780771]"
-		}
+		},
+
+                {
+
+                        "attributes": [
+                                "suspicious"
+                        ],
+                        "steamid": "[U:1:362098865]"
+                }
 	]
 }
