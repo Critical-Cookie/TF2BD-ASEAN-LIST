@@ -22,8 +22,7 @@
 					"case_sensitive": false,
 					"patterns": [
 						"Babyrage",
-						"[ATG]",
-						"Serrabella"
+						"[ATG] Serrabella"
 					]
 				}
 			}
