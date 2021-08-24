@@ -17,7 +17,7 @@
 			},
 			"description": "Babyrage Steam or ingame name",
 			"triggers": {
-				"personaname_text_match": {
+				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
@@ -80,7 +80,7 @@
                         },
                         "description": "EAC | Texashook Steam or ingame name",
                         "triggers": {
-                                "personaname_text_match": {
+                                "username_text_match": {
                                         "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
