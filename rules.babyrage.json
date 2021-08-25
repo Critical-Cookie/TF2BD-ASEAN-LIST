@@ -33,6 +33,23 @@
 		},
 		{
 			"actions": {
+				"transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "discord.io/babyrage regex detection test",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "regex",
+					"patterns": [
+						"(\\([1-9]\\d?\\))?discord\\.io/babyrage \\| yt/l1tty"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
 				"mark": [
 					"cheater"
 				]
