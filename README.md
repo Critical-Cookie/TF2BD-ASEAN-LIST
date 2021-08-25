@@ -44,6 +44,14 @@ and remove the entire line that starts with...
 
 (please don't just remove the URL, as update_url will attempt to look for a URL that's not there, not find it, and will not accept the list/ruleset into the tool)
 
+# Hey I found "x" Bots called "name" that isn't on your list, but found in Asian TF2 servers!
+
+I'll look into these if they are common enough to be included into my list, but if these bots can already be found in either the TF2 BD's Official/Trusted Rulesets/Lists then I won't
+include them in mine.
+
+The purpose of my pet project is to include Asian Bots that are NOT within any of the official TF2 BD lists, for better Quality Of Life for asian TF2 BD users.
+(Bots only found within Trusted may have an exception, since many TF2 BD users may only be using Official, and not Trusted, since Trusted must be manually downloaded)
+
 
 # I found UUID's or Rules that are targetting legitimate players!
 
