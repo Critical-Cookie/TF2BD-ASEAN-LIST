@@ -7,6 +7,7 @@ List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for Asian regio
 The WIP rules.babyrage.json is made for ONLY BOTS detection
 so I can keep what's left of my Insanity rather than go through another hundred hashes of UUID's.
 
+I recommend using BOTH at the same time for efficient Bot detection in South East Asian servers!
 
 * Note: The playerlist.babyrage.json is made for BOTH BOTS AND VERIFIED BOT HOSTERS WITHIN THE BOT HOSTING COMMUNITY 
 that are not found within the TF2 BD's official list
