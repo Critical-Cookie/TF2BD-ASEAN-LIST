@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage ingame name",
+			"description": "Babyrage Steam name",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -36,7 +36,7 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Babyrage Steam name",
+                        "description": "Babyrage ingame name",
                         "triggers": {
                                 "personaname_text_match": {
                                         "case_sensitive": true,
@@ -47,6 +47,7 @@
                                                 "[ATG]",
                                                 "lickass",
                                                 "discord.io/babyrage",
+						"Citrous",
                                                 "l1tty"
                                         ]
                                 }
