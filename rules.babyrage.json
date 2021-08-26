@@ -17,7 +17,7 @@
 			},
 			"description": "Babyrage Steam name",
 			"triggers": {
-				"username_text_match": {
+				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
@@ -38,7 +38,7 @@
                         },
                         "description": "Babyrage ingame name",
                         "triggers": {
-                                "personaname_text_match": {
+                                "username_text_match": {
                                         "case_sensitive": true,
                                         "mode": "contains",
                                         "patterns": [
