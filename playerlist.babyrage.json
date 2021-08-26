@@ -729,6 +729,56 @@
                                 "cheater"
                         ],
                         "steamid": "[U:1:838901039]"
-                }
+                },
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "baguette salad",
+				"time": 1629916733
+			},
+			"steamid": "[U:1:1241309546]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+				"time": 1629917198
+			},
+			"steamid": "[U:1:1241419358]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tonald D Jrump",
+				"time": 1629915846
+			},
+			"steamid": "[U:1:1240954918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr Potato",
+				"time": 1629917462
+			},
+			"steamid": "[U:1:1241124915]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Clango (amputator contract)",
+				"time": 1629917342
+			},
+			"steamid": "[U:1:1236907817]"
+		}
 	]
 }
