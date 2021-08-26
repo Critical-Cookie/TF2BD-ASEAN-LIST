@@ -139,6 +139,24 @@
                                         "cheater"
                                 ]
                         },
+                        "description": "Engimaballz Steam name",
+                        "triggers": {
+                                "personaname_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "Enigm",
+                                                "ballz"
+                                        ]
+                                }
+                        }
+                },
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
                         "description": "EAC | Texashook ingame name",
                         "triggers": {
                                 "username_text_match": {
