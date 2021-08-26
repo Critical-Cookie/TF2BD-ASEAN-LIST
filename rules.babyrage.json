@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Steam or ingame name",
+			"description": "Babyrage ingame name",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -25,13 +25,33 @@
 						"Serrabella",
 						"[ATG]",
 						"lickass",
-						"discord.io/babyrage",
-						"Citrous",
-						"yt/l1tty"
+						"l1tty"
 					]
 				}
 			}
 		},
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Babyrage Steam name",
+                        "triggers": {
+                                "personaname_text_match": {
+                                        "case_sensitive": true,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "Babyrage",
+                                                "Serrabella",
+                                                "[ATG]",
+                                                "lickass",
+                                                "discord.io/babyrage",
+                                                "l1tty"
+                                        ]
+                                }
+                        }
+                },
 		{
 			"actions": {
 				"transient_mark": [
@@ -97,7 +117,7 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "EAC | Texashook Steam or ingame name",
+                        "description": "EAC | Texashook ingame name",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": false,
@@ -106,6 +126,25 @@
                                                 "Texashook",
                                                 "_Femboy",
 						"EAC"
+                                        ]
+                                }
+                        }
+                },
+                {
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "EAC | Texashook Steam name",
+                        "triggers": {
+                                "personaname_text_match": {
+                                        "case_sensitive": true,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "Texashook",
+                                                "_Femboy",
+                                                "EAC"
                                         ]
                                 }
                         }
