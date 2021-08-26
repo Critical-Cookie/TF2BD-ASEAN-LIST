@@ -36,6 +36,10 @@ Save any of the individual json files that you want to use
 within your TF2 Bot Detectors cfg folder, and don't change the file names.
 Start up TF2 BD and the tool will take care of the rest
 
+## Hey, your Steam Name rules are broken in ruleset.babyrage.json!
+
+As of now, 26th August 2021, only the latest Nightly build of TF2 Bot Detector supports Steam Name detection via Moebs excellent contribution, the current stable build cannot understand what "personaname_message_text" means, therefore it will discard it and leave the rule entry as null
+
 
 ## I like your work, but I don't trust you'll keep it to just Bots and Bot Hosters only. What if you're a troll and start adding legit players? Or get hacked?
 
