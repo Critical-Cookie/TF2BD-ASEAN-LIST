@@ -41,7 +41,7 @@
 			"description": "Babyrage Steam name",
 			"triggers": {
 				"personaname_text_match": {
-					"case_sensitive": true,
+					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
 						"Babyrage",
@@ -117,7 +117,7 @@
 		},
 		{
                         "actions": {
-                                "mark": [
+                                "transient_mark": [
                                         "cheater"
                                 ]
                         },
@@ -135,7 +135,7 @@
                 },
 		{
                         "actions": {
-                                "mark": [
+                                "transient_mark": [
                                         "cheater"
                                 ]
                         },
@@ -179,7 +179,7 @@
                         "description": "EAC | Texashook Steam name",
                         "triggers": {
                                 "personaname_text_match": {
-                                        "case_sensitive": true,
+                                        "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
                                                 "Texashook",
