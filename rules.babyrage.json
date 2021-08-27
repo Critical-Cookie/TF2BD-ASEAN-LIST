@@ -11,7 +11,7 @@
 	"rules": [
 		{
 			"actions": {
-				" transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -33,7 +33,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -54,7 +54,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				" mark": [
 					"cheater"
 				]
 			},
