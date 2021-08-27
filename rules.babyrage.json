@@ -54,7 +54,7 @@
 		},
 		{
 			"actions": {
-				" mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -71,7 +71,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				" mark": [
 					"suspicious"
 				]
 			},
@@ -113,7 +113,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				"mark": [
 					"suspicious"
 				]
 			},
@@ -128,7 +128,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				"transient_mark": [
 					"cheater"
 				]
 			},
@@ -147,7 +147,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				"transient_mark": [
 					"cheater"
 				]
 			},
@@ -166,7 +166,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				"transient_mark": [
 					"cheater"
 				]
 			},
@@ -185,7 +185,7 @@
 		},
 		{
 			"actions": {
-				" transient_mark": [
+				"transient_mark": [
 					"cheater"
 				]
 			},
