@@ -154,7 +154,8 @@
                                         "mode": "contains",
                                         "patterns": [
                                                 "Enigm",
-                                                "ballz"
+                                                "ballz",
+						"igmab"
                                         ]
                                 }
                         }
