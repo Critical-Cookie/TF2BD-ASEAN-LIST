@@ -129,14 +129,15 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Engimaballz ingame name",
+                        "description": "Enigmaballz ingame name",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
                                                 "Enigm",
-						"ballz"
+						"ballz",
+                                                "igmab"
                                         ]
                                 }
                         }
@@ -147,7 +148,7 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Engimaballz Steam name",
+                        "description": "Enigmaballz Steam name",
                         "triggers": {
                                 "personaname_text_match": {
                                         "case_sensitive": false,
