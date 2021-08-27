@@ -10,30 +10,30 @@
 	},
 	"rules": [
 		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Babyrage ingame name",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Babyrage",
-                                                "Serrabella",
-                                                "[ATG]",
-                                                "lickass",
-                                                "discord.io/babyrage",
-                                                "l1tty"
-                                        ]
-                                }
-                        }
-                },
+			"actions": {
+				" transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "Babyrage ingame name",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Babyrage",
+						"Serrabella",
+						"[ATG]",
+						"lickass",
+						"discord.io/babyrage",
+						"l1tty"
+					]
+				}
+			}
+		},
 		{
 			"actions": {
-				"mark": [
+				" transient_mark": [
 					"cheater"
 				]
 			},
@@ -54,7 +54,7 @@
 		},
 		{
 			"actions": {
-				"mark": [
+				" transient_mark": [
 					"cheater"
 				]
 			},
@@ -71,7 +71,7 @@
 		},
 		{
 			"actions": {
-				"mark": [
+				" transient_mark": [
 					"cheater"
 				]
 			},
@@ -99,9 +99,9 @@
 					{
 						"avatar_hash": "7710b08249bab901afef1420b8780cc0df4ddd90"
 					},
-                                        {
-                                                "avatar_hash": "f1928a1c6244fcd81b2354fb683a1c42d629d63f"
-                                        },
+					{
+						"avatar_hash": "f1928a1c6244fcd81b2354fb683a1c42d629d63f"
+					},
 					{
 						"avatar_hash": "f3b24c86ce4cc405e339f0258da430ac1ceefcf1"
 					}
@@ -110,7 +110,7 @@
 		},
 		{
 			"actions": {
-				"mark": [
+				" transient_mark": [
 					"cheater"
 				]
 			},
@@ -124,80 +124,80 @@
 			}
 		},
 		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Enigmaballz ingame name",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Enigm",
+			"actions": {
+				" transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "Enigmaballz ingame name",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Enigm",
 						"ballz",
-                                                "igmab"
-                                        ]
-                                }
-                        }
-                },
-		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Enigmaballz Steam name",
-                        "triggers": {
-                                "personaname_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Enigm",
-                                                "ballz",
 						"igmab"
-                                        ]
-                                }
-                        }
-                },
+					]
+				}
+			}
+		},
 		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "EAC | Texashook ingame name",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Texashook",
-                                                "_Femboy",
+			"actions": {
+				" transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "Enigmaballz Steam name",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Enigm",
+						"ballz",
+						"igmab"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				" transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "EAC | Texashook ingame name",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Texashook",
+						"_Femboy",
 						"EAC"
-                                        ]
-                                }
-                        }
-                },
-                {
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "EAC | Texashook Steam name",
-                        "triggers": {
-                                "personaname_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Texashook",
-                                                "_Femboy",
-                                                "EAC"
-                                        ]
-                                }
-                        }
-                }
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				" transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "EAC | Texashook Steam name",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Texashook",
+						"_Femboy",
+						"EAC"
+					]
+				}
+			}
+		}
 	]
 }
