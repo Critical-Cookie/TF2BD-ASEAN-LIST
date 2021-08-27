@@ -779,6 +779,16 @@
 				"time": 1629917342
 			},
 			"steamid": "[U:1:1236907817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chell",
+				"time": 1630059168
+			},
+			"steamid": "[U:1:1192969366]"
 		}
 	]
 }
