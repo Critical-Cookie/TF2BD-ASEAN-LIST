@@ -115,6 +115,42 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:1162958147]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1163204777]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1190775314]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1192155494]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1192413799]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"steamid": "[U:1:1192969366]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:1202331724]"
 		},
 		{
@@ -691,6 +727,12 @@
 			"attributes": [
 				"cheater"
 			],
+			"steamid": "[U:1:1241124915]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
 			"steamid": "[U:1:1241135330]"
 		},
 		{
@@ -716,79 +758,6 @@
 				"cheater"
 			],
 			"steamid": "[U:1:1241419358]"
-		},
-
-                {
-                        "attributes": [
-                                "cheater"
-                        ],
-                        "steamid": "[U:1:362098865]"
-                },
-                {
-                        "attributes": [
-                                "cheater"
-                        ],
-                        "steamid": "[U:1:838901039]"
-                },
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "baguette salad",
-				"time": 1629916733
-			},
-			"steamid": "[U:1:1241309546]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
-				"time": 1629917198
-			},
-			"steamid": "[U:1:1241419358]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Tonald D Jrump",
-				"time": 1629915846
-			},
-			"steamid": "[U:1:1240954918]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Mr Potato",
-				"time": 1629917462
-			},
-			"steamid": "[U:1:1241124915]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Clango (amputator contract)",
-				"time": 1629917342
-			},
-			"steamid": "[U:1:1236907817]"
-		},
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "Chell",
-				"time": 1630059168
-			},
-			"steamid": "[U:1:1192969366]"
 		}
 	]
 }
