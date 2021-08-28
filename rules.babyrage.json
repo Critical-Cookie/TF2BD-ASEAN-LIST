@@ -24,7 +24,7 @@
                                                 "discord.io",
 						"discord.gg",
 						"shoppy.gg",
-						"youtube.com",
+						"youtube.com/",
 						"royalhack.net"
                                         ]
                                 }
@@ -142,9 +142,6 @@
 					},
 					{
 						"avatar_hash": "f3b24c86ce4cc405e339f0258da430ac1ceefcf1"
-					},
-					{
-						"avatar_hash": "90b08d04f2872a3e8f1a4e0a0c7a1efaf62c07c2"
 					}
 				]
 			}
