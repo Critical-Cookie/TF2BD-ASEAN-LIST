@@ -10,6 +10,27 @@
 	},
 	"rules": [
 		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Advertising Link Detection",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "discord.io",
+						"discord.gg",
+						"shoppy.gg",
+						"youtube.com",
+						"royalhack.net"
+                                        ]
+                                }
+                        }
+                },
+		{
 			"actions": {
 				"mark": [
 					"cheater"
@@ -26,7 +47,6 @@
 						"[ATG]",
 						"lickass",
 						"discord.io/babyrage",
-						"l1tty",
 						"discord.io/marl"
 					]
 				}
@@ -59,7 +79,7 @@
 					"cheater"
 				]
 			},
-			"description": "discord.io/babyrage regex detection test",
+			"description": "DISCORD.IO/BABYRAGE REGEX",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
@@ -70,6 +90,23 @@
 				}
 			}
 		},
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "DISCORD.IO/MARL REGEX",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": true,
+                                        "mode": "regex",
+                                        "patterns": [
+                                                "(\\([1-9]\\d?\\))?discord\\.io/marl \\| ANTI BOT"
+                                        ]
+                                }
+                        }
+                },
 		{
 			"actions": {
 				"mark": [
