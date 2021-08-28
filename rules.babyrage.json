@@ -163,7 +163,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -175,14 +175,15 @@
 					"patterns": [
 						"Enigm",
 						"ballz",
-						"igmab"
+						"igmab",
+						"llz"
 					]
 				}
 			}
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -194,7 +195,8 @@
 					"patterns": [
 						"Enigm",
 						"ballz",
-						"igmab"
+						"igmab",
+						"llz"
 					]
 				}
 			}
