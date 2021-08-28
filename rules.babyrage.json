@@ -15,7 +15,7 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Advertising Link Detection",
+                        "description": "Bot Advertising Link Detection - Babyrage and Friends!",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": false,
@@ -36,7 +36,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage ingame name",
+			"description": "Babyrage ingame name - Babyrage and Friends!",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -58,7 +58,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Steam name",
+			"description": "Babyrage Steam name - Babyrage and Friends!",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
@@ -79,7 +79,7 @@
 					"cheater"
 				]
 			},
-			"description": "DISCORD.IO/BABYRAGE REGEX",
+			"description": "DISCORD.IO/BABYRAGE REGEX - Babyrage and Friends!",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
@@ -96,7 +96,7 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "DISCORD.IO/MARL REGEX",
+                        "description": "DISCORD.IO/MARL REGEX - Babyrage and Friends!",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": true,
@@ -113,7 +113,7 @@
 					"suspicious"
 				]
 			},
-			"description": "Babyrage avatar match or URL name",
+			"description": "Babyrage avatar match or URL name - Babyrage and Friends!",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -152,7 +152,7 @@
 					"suspicious"
 				]
 			},
-			"description": "EAC | Texashook avatar match",
+			"description": "EAC | Texashook avatar match - Babyrage and Friends!",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -167,7 +167,7 @@
 					"cheater"
 				]
 			},
-			"description": "Enigmaballz ingame name",
+			"description": "Enigmaballz ingame name - Babyrage and Friends!",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -187,7 +187,7 @@
 					"cheater"
 				]
 			},
-			"description": "Enigmaballz Steam name",
+			"description": "Enigmaballz Steam name - Babyrage and Friends!",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
@@ -207,7 +207,7 @@
 					"cheater"
 				]
 			},
-			"description": "EAC | Texashook ingame name",
+			"description": "EAC | Texashook ingame name - Babyrage and Friends!",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -226,7 +226,7 @@
 					"cheater"
 				]
 			},
-			"description": "EAC | Texashook Steam name",
+			"description": "EAC | Texashook Steam name - Babyrage and Friends!",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
