@@ -255,21 +255,6 @@
                                         ]
                                 }
                         }
-                },
-                {
-                        "actions": {
-                                "mark": [
-                                        "suspicious"
-                                ]
-                        },
-                        "description": "DoesHotter Avatar match - Babyrage and Friends!",
-                        "triggers": {
-                                "avatar_match": [
-                                        {
-                                                "avatar_hash": "3eba1c785bd3eb2d5e24b0ca85222c048f06a3c3"
-                                        }
-                                ]
-                        }
-                }
+		}
 	]
 }
