@@ -15,25 +15,6 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Miscellaneous Bots Detection - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Brandon Aldridge",
-						"DoesHotter",
-						"Sauucey | Bots"
-                                        ]
-                                }
-                        }
-                },
-		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
                         "description": "Bot Advertising Link Detection - Babyrage and Friends!",
                         "triggers": {
                                 "username_text_match": {
@@ -256,5 +237,39 @@
 				}
 			}
 		}
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Miscellaneous Bots Detection - Babyrage and Friends!",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "Brandon Aldridge",
+                                                "DoesHotter",
+                                                "Sauucey | Bots"
+                                        ]
+                                }
+                        }
+                },
+                {
+                        "actions": {
+                                "mark": [
+                                        "suspicious"
+                                ]
+                        },
+                        "description": "Does Hotter Avatar match - Babyrage and Friends!",
+                        "triggers": {
+                                "avatar_match": [
+                                        {
+                                                "avatar_hash": "3eba1c785bd3eb2d5e24b0ca85222c048f06a3c3"
+                                        }
+                                ]
+                        }
+                },
 	]
 }
