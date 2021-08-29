@@ -15,6 +15,24 @@
                                         "cheater"
                                 ]
                         },
+                        "description": "Miscellaneous Bots Detection - Babyrage and Friends!",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "Brandon Aldridge",
+						"DoesHotter"
+                                        ]
+                                }
+                        }
+                },
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
                         "description": "Bot Advertising Link Detection - Babyrage and Friends!",
                         "triggers": {
                                 "username_text_match": {
