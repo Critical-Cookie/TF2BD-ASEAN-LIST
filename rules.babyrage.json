@@ -262,7 +262,7 @@
                                         "suspicious"
                                 ]
                         },
-                        "description": "Does Hotter Avatar match - Babyrage and Friends!",
+                        "description": "DoesHotter Avatar match - Babyrage and Friends!",
                         "triggers": {
                                 "avatar_match": [
                                         {
@@ -270,6 +270,6 @@
                                         }
                                 ]
                         }
-                },
+                }
 	]
 }
