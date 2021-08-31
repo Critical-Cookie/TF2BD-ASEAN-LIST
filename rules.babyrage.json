@@ -243,18 +243,112 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Miscellaneous Bots Detection - Babyrage and Friends!",
+                        "description": "Brandon Aldridge Bot Detection - Babyrage and Friends!",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
-                                                "Brandon Aldridge",
-                                                "DoesHotter",
-                                                "Sauucey | Bots"
+                                                "Brandon Aldridge"
                                         ]
                                 }
                         }
-		}
+		},
+
+                {
+
+                        "actions": {
+
+                                "mark": [
+
+                                        "cheater"
+
+                                ]
+
+                        },
+
+                        "description": "DoesHotter Bot Detection - Babyrage and Friends!",
+
+                        "triggers": {
+
+                                "username_text_match": {
+
+                                        "case_sensitive": false,
+
+                                        "mode": "contains",
+
+                                        "patterns": [
+                                                "DoesHotter"
+                                        ]
+
+                                }
+
+                        }
+
+                },
+
+                {
+
+                        "actions": {
+
+                                "mark": [
+
+                                        "cheater"
+
+                                ]
+
+                        },
+
+                        "description": "Sauucey Bot Detection - Babyrage and Friends!",
+
+                        "triggers": {
+
+                                "username_text_match": {
+
+                                        "case_sensitive": false,
+
+                                        "mode": "contains",
+
+                                        "patterns": [
+                                                "Sauucey | Bots",
+                                        ]
+
+                                }
+
+                        }
+
+                },
+
+                {
+
+                        "actions": {
+
+                                "mark": [
+
+                                        "cheater"
+
+                                ]
+
+                        },
+
+                        "description": "Trick or Treat Bots Detection - Babyrage and Friends!",
+
+                        "triggers": {
+
+                                "username_text_match": {
+
+                                        "case_sensitive": false,
+
+                                        "mode": "contains",
+
+                                        "patterns": [
+                                                "discord.gg/KjMnxUeRCk"
+                                        ]
+
+                                }
+
+                        }
+
+                }
 	]
 }
