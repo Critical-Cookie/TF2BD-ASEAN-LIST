@@ -1305,6 +1305,18 @@
 				"time": 1630346618
 			},
 			"steamid": "[U:1:1241849725]"
-		}
+		},
+                {
+                        "attributes": [
+                                "cheater"
+                        ],
+                        "steamid": "[U:1:1200736093]"
+                },
+                {
+                        "attributes": [
+                                "cheater"
+                        ],
+                        "steamid": "[U:1:1106092622]"
+                }
 	]
 }
