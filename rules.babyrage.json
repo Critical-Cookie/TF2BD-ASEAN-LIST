@@ -45,7 +45,8 @@
 						"[ATG]",
 						"lickass",
 						"discord.io/babyrage",
-						"discord.io/marl"
+						"discord.io/marl",
+						"shoppy.gg/@L1tty"
 					]
 				}
 			}
@@ -77,34 +78,19 @@
 					"cheater"
 				]
 			},
-			"description": "DISCORD.IO/BABYRAGE REGEX - Babyrage and Friends!",
+			"description": "BABYRAGE REGEX - Babyrage and Friends!",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
 					"mode": "regex",
 					"patterns": [
-						"(\\([1-9]\\d?\\))?discord\\.io/babyrage \\| yt/l1tty"
+						"(\\([1-9]\\d?\\))?discord\\.io/babyrage \\| yt/l1tty",
+						"(\\([1-9]\\d?\\))?discord\\.io/marl \\| ANTI BOT",
+						"(\\([1-9]\\d?\\))?shoppy\\.gg/@L1tty"
 					]
 				}
 			}
 		},
-		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "DISCORD.IO/MARL REGEX - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": true,
-                                        "mode": "regex",
-                                        "patterns": [
-                                                "(\\([1-9]\\d?\\))?discord\\.io/marl \\| ANTI BOT"
-                                        ]
-                                }
-                        }
-                },
 		{
 			"actions": {
 				"mark": [
