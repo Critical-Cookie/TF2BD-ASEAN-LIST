@@ -17,7 +17,7 @@
                         },
                         "description": "Bot Advertising Link Detection - Babyrage and Friends!",
                         "triggers": {
-                                "username_text_match": {
+                                "chatmsg_text_match": {
                                         "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
