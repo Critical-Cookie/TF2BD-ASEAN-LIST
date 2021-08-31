@@ -3,6 +3,8 @@ List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for Asian regio
 
 # PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector
 
+## Our Discord: Anti-Bot-Club https://discord.gg/KuJYSaCZKE
+
 ## What are the use cases of either list or ruleset?
 
 The WIP rules.babyrage.json is made for ONLY BOTS detection
@@ -25,8 +27,7 @@ I will be allowing public contributions in the future for me and a set of truste
 but as of now, I'd like this project and contributions to be maintained by just me.
 
 
-* Note: Contributions can be suggested within our Discord group, however for security purposes the links aren't made public,
-and I will only be inviting trusted individuals on a case-by-case basis
+* Note: Contributions can be suggested within our Discord group
 
 
 
