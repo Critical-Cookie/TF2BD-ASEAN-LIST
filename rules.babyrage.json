@@ -283,7 +283,7 @@
                                         "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
-                                                "Sauucey",
+                                                "Sauucey"
                                         ]
                                 }
                         }
