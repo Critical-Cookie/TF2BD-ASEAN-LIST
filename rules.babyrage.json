@@ -29,6 +29,25 @@
                         }
                 },
 		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Bot Advertising Link Detection - Babyrage and Friends!",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "discord.io",
+                                                "discord.gg",
+                                                "youtube"
+                                        ]
+                                }
+                        }
+                },
+		{
 			"actions": {
 				"mark": [
 					"cheater"
