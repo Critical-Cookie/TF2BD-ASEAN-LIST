@@ -133,7 +133,7 @@
 		{
 			"actions": {
 				"mark": [
-					"suspicious"
+					"cheater"
 				]
 			},
 			"description": "EAC | Texashook avatar match - Babyrage and Friends!",
@@ -184,6 +184,22 @@
 						"llz"
 					]
 				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Enigmaballz avatar match - Babyrage and Friends!",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "f0256be93b7028311ee7f7965ddd7ee937af1f3d",
+						"avatar_hash": "8f787819b438234acce52ce781291d83df34d008"
+					}
+				]
 			}
 		},
 		{
