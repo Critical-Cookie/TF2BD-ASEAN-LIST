@@ -298,16 +298,16 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Trick or Treat Bots Detection - Babyrage and Friends!",
+                        "description": "Snake Update Bots - Babyrage and Friends!",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": false,
                                         "mode": "contains",
                                         "patterns": [
-                                                "discord.gg/KjMnxUeRCk"
+                                                "snake update lets goo"
                                         ]
                                 }
-                        }
+			}
                 }
 	]
 }
