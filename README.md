@@ -1,5 +1,8 @@
 # babyrage-and-friends
-List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for Asian region bots not found in the other lists or rules such as the babyrage bots.
+List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
+ASEAN region bots not found in the other lists or rules such as the 
+babyrage bots(now extinct :poggers:).
+    
 
 # PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector
 
