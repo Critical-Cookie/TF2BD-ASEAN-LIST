@@ -23,6 +23,7 @@
                                         "patterns": [
                                                 "discord.io",
                                                 "discord.gg",
+						"discord.me",
                                                 "youtube"
                                         ]
                                 }
