@@ -9,11 +9,7 @@ Bots included in this list originate from the following country's gameservers
 - Singapore
 - Hong Kong
 - Australia
-- India (WIP)
-- Indonesia (WIP)
-- Malaysia (WIP)
-- Phillipines (WIP)
-- Thailand (WIP)
+
 ```
     
 
