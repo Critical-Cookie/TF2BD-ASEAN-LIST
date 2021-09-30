@@ -2764,6 +2764,15 @@
 				"time": 1632898020
 			},
 			"steamid": "[U:1:1248450248]"
+		},
+		{
+		"attributes": [
+                                "cheater"
+                        ],
+                        "last_seen": {
+                                "player_name": "botpolice.cf",
+                        },
+                        "steamid": "[U:1:1242296796]"
 		}
 	]
 }
