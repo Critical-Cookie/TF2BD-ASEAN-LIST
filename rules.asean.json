@@ -10,32 +10,32 @@
 	},
 	"rules": [
 		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Bot Advertising Link Detection - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "discord.io",
-                                                "discord.gg",
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Bot Advertising Link Detection - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"discord.io",
+						"discord.gg",
 						"discord.me",
-                                                "youtube"
-                                        ]
-                                }
-                        }
-                },
+						"youtube"
+					]
+				}
+			}
+		},
 		{
 			"actions": {
 				"mark": [
 					"cheater"
 				]
 			},
-			"description": "Babyrage ingame name - Babyrage and Friends!",
+			"description": "Babyrage ingame name - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -58,7 +58,7 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Steam name - Babyrage and Friends!",
+			"description": "Babyrage Steam name - TF2BD-ASEAN",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
@@ -79,7 +79,7 @@
 					"cheater"
 				]
 			},
-			"description": "BABYRAGE REGEX - Babyrage and Friends!",
+			"description": "BABYRAGE REGEX - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
@@ -98,7 +98,7 @@
 					"suspicious"
 				]
 			},
-			"description": "Babyrage avatar match or URL name - Babyrage and Friends!",
+			"description": "Babyrage avatar match or URL name - TF2BD-ASEAN",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -137,7 +137,7 @@
 					"cheater"
 				]
 			},
-			"description": "EAC | Texashook avatar match - Babyrage and Friends!",
+			"description": "EAC | Texashook avatar match - TF2BD-ASEAN",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -152,7 +152,7 @@
 					"cheater"
 				]
 			},
-			"description": "Enigmaballz ingame name - Babyrage and Friends!",
+			"description": "Enigmaballz ingame name - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -171,7 +171,7 @@
 					"cheater"
 				]
 			},
-			"description": "Enigmaballz Steam name - Babyrage and Friends!",
+			"description": "Enigmaballz Steam name - TF2BD-ASEAN",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
@@ -190,11 +190,10 @@
 					"cheater"
 				]
 			},
-			"description": "Enigmaballz avatar match - Babyrage and Friends!",
+			"description": "Enigmaballz avatar match - TF2BD-ASEAN",
 			"triggers": {
 				"avatar_match": [
 					{
-						"avatar_hash": "f0256be93b7028311ee7f7965ddd7ee937af1f3d",
 						"avatar_hash": "8f787819b438234acce52ce781291d83df34d008"
 					}
 				]
@@ -206,7 +205,7 @@
 					"cheater"
 				]
 			},
-			"description": "EAC | Texashook ingame name - Babyrage and Friends!",
+			"description": "EAC | Texashook ingame name - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
@@ -226,7 +225,7 @@
 					"cheater"
 				]
 			},
-			"description": "EAC | Texashook Steam name - Babyrage and Friends!",
+			"description": "EAC | Texashook Steam name - TF2BD-ASEAN",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
@@ -240,72 +239,72 @@
 			}
 		},
 		{
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Brandon Aldridge Bot Detection - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Brandon Aldridge"
-                                        ]
-                                }
-                        }
-		},
-                {
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "DoesHotter Bot Detection - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "DoesHotter"
-                                        ]
-                                }
-                        }
-                },
-                {
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Sauucey Bot Detection - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "Sauucey"
-                                        ]
-                                }
-                        }
-                },
-                {
-                        "actions": {
-                                "mark": [
-                                        "cheater"
-                                ]
-                        },
-                        "description": "Snake Update Bots - Babyrage and Friends!",
-                        "triggers": {
-                                "username_text_match": {
-                                        "case_sensitive": false,
-                                        "mode": "contains",
-                                        "patterns": [
-                                                "snake update lets goo"
-                                        ]
-                                }
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Brandon Aldridge Bot Detection - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Brandon Aldridge"
+					]
+				}
 			}
-                }
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "DoesHotter Bot Detection - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"DoesHotter"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Sauucey Bot Detection - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Sauucey"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Snake Update Bots - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"snake update lets goo"
+					]
+				}
+			}
+		}
 	]
 }
