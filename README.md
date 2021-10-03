@@ -15,7 +15,7 @@ Bots included in this list originate from the following country's gameservers
 
 # PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector
 
-## Our Discord: Anti-Bot-Club https://discord.gg/KuJYSaCZKE
+## Our Discord: Anti-Bot-Club https://discord.gg/S6nxQeCe9E
 
 ## What are the use cases of either list or ruleset?
 
