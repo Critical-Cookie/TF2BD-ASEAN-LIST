@@ -4,9 +4,9 @@
 		"authors": [
 			"Critical-Cookie"
 		],
-		"description": "This is a WIP Ruleset for a BOT ONLY list for bots found prominent in S.E.A servers such as Babyrage, Enigmaballz and EAC |Texashook",
-		"title": "Babyrage and Friends 2 - Ruleset Boogaloo!",
-		"update_url": "https://raw.githubusercontent.com/Critical-Cookie/babyrage-and-friends/main/rules.babyrage.json"
+		"description": "This is a WIP Ruleset for a BOT ONLY list for bots found prominent in ASEAN servers such as Babyrage, Enigmaballz and EAC |Texashook",
+		"title": "TF2 Bot Detector ASEAN Ruleset!",
+		"update_url": "https://raw.githubusercontent.com/Critical-Cookie/TF2BD-ASEAN-LIST/main/rules.asean.json"
 	},
 	"rules": [
 		{
