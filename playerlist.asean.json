@@ -4,9 +4,9 @@
 		"authors": [
 			"CriticalCookie"
 		],
-		"description": "Cookie's Babyrage Blacklist for the real Rage Babies (Spiced with other Bots and Bot Hosters as well).",
-		"title": "Babyrage and Friends!",
-		"update_url": "https://raw.githubusercontent.com/Critical-Cookie/babyrage-and-friends/main/playerlist.babyrage.json"
+		"description": "Cookie's TF2BD ASEAN Blacklist for ASEAN Bots and Bot Hosters!",
+		"title": "TF2 Bot Detector ASEAN List",
+		"update_url": "https://raw.githubusercontent.com/Critical-Cookie/TF2BD-ASEAN-LIST/main/playerlist.asean.json"
 	},
 	"players": [
 		{
