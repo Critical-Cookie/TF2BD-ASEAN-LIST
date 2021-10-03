@@ -3,9 +3,9 @@ List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for
 ASEAN region bots not found in the other lists or rules such as the 
 Enigmaballz Bots.
 
-```
-Bots included in this list originate from the following country's gameservers
-```
+
+__Bots included in this list originate from the following country's gameservers__
+
 - [x] Singapore
 - [x] Hong Kong
 - [x] India
