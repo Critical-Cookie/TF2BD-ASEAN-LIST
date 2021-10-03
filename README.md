@@ -1,21 +1,29 @@
 # TF2BD-ASEAN-LIST
 List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
 ASEAN region bots not found in the other lists or rules such as the 
-babyrage bots(now extinct :poggers:).
+Enigmaballz Bots.
 
 ```
 Bots included in this list originate from the following country's gameservers
-
-- Singapore
-- Hong Kong
-- India
-
 ```
+- [x] Singapore
+- [x] Hong Kong
+- [x] India
+- [ ] Indonesia
+- [ ] Malaysia
+- [ ] Phillipines
+
+Legend: 
+- [ ] = Not yet supported
+- [x] = supported
+
     
 
-# PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector
+**_PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
-## Our Discord: Anti-Bot-Club https://discord.gg/S6nxQeCe9E
+**_Our Discord: Anti-Bot-Club https://discord.gg/S6nxQeCe9E_**
+
+
 
 ## What are the use cases of either list or ruleset?
 
