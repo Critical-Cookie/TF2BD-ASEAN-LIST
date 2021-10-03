@@ -1,4 +1,4 @@
-# babyrage-and-friends
+# TF2BD-ASEAN-LIST
 List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
 ASEAN region bots not found in the other lists or rules such as the 
 babyrage bots(now extinct :poggers:).
@@ -8,7 +8,7 @@ Bots included in this list originate from the following country's gameservers
 
 - Singapore
 - Hong Kong
-- Australia
+- India
 
 ```
     
@@ -19,12 +19,12 @@ Bots included in this list originate from the following country's gameservers
 
 ## What are the use cases of either list or ruleset?
 
-The WIP rules.babyrage.json is made for ONLY BOTS detection
+The WIP rules.asean.json is made for ONLY BOTS detection
 so I can keep what's left of my Insanity rather than go through another hundred hashes of UUID's.
 
 I recommend using BOTH at the same time for efficient Bot detection in South East Asian servers!
 
-* Note: The playerlist.babyrage.json is made for BOTH BOTS AND VERIFIED BOT HOSTERS WITHIN THE BOT HOSTING COMMUNITY 
+* Note: The playerlist.asean.json is made for BOTH BOTS AND VERIFIED BOT HOSTERS WITHIN THE BOT HOSTING COMMUNITY 
 that are not found within the TF2 BD's official list
 
 
@@ -50,7 +50,7 @@ Save any of the individual json files that you want to use
 within your TF2 Bot Detectors cfg folder, and don't change the file names.
 Start up TF2 BD and the tool will take care of the rest
 
-## Hey, your Steam Name rules are broken in ruleset.babyrage.json!
+## Hey, your Steam Name rules are broken in ruleset.asean.json!
 
 As of now, 26th August 2021, only the latest Nightly build of TF2 Bot Detector supports Steam Name detection via Moebs excellent contribution, the current stable build cannot understand what "personaname_message_text" means, therefore it will discard it and leave the rule entry as null
 
