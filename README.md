@@ -9,7 +9,7 @@ __Bots included in this list originate from the following country's gameservers_
 - [x] Singapore
 - [x] Hong Kong
 - [x] India
-- [x] Australia (Adding Australian bots to this list because some of my good friends are from Australia, and have bots missing from the official and/or trusted list as well)
+- [x] Australia (Adding Australian bots to this list because some of my good friends are from Australia)
 - [ ] Indonesia
 - [ ] Malaysia
 - [ ] Phillipines
