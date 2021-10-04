@@ -312,7 +312,7 @@
                                         "cheater"
                                 ]
                         },
-                        "description": "Unknown Valve Allows Cheaters Bots - TF2BD-ASEAN",
+                        "description": "Unknown Valve Allows Cheats Bots - TF2BD-ASEAN",
                         "triggers": {
                                 "username_text_match": {
                                         "case_sensitive": false,
@@ -321,6 +321,21 @@
                                                 "VAC = Valve Allows Cheats"
                                         ]
                                 }
+                        }
+                },
+                {
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Valve Allows Cheats Bots avatar match - TF2BD-ASEAN",
+                        "triggers": {
+                                "avatar_match": [
+                                        {
+                                                "avatar_hash": "8f45f6bb97688561515d1622ffbfe2806a7016e5"
+                                        }
+                                ]
                         }
                 }
 	]
