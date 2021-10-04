@@ -18,7 +18,8 @@ Legend:
 - [ ] = Not yet supported
 - [x] = supported
 
-###### Please keep in mind this is a HOBBY Project of mine, and as such, updates/responses to issues can either be constant or not til I return a century later :P If the issue is absolutely urgent (Rules false flagging innocents, or a false positive is incorrectly added to the list) I will reply, however please be patient, I am still a freshman after all.
+###### Please keep in mind this is a HOBBY Project of mine, and as such, updates/responses to issues can either be constant or not til I return a century later :P. 
+###### If the issue is absolutely urgent (Rules false flagging innocents, or a false positive is incorrectly added to the list) I will reply, however please be patient, I am still a freshman after all.
 
 **_PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
