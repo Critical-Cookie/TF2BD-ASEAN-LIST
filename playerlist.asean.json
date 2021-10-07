@@ -16,12 +16,6 @@
 			"steamid": "[U:1:659901]"
 		},
 		{
-                        "attributes": [
-                                "cheater"
-                        ],
-			"steamid": "[U:1:256826968]"
-                },
-		{
 			"attributes": [
 				"cheater"
 			],
@@ -531,8 +525,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)ENIGMABALLZ",
-				"time": 1633332496
+				"player_name": "(3)ENIGMABALLZ",
+				"time": 1633523002
 			},
 			"steamid": "[U:1:1208147391]"
 		},
@@ -541,8 +535,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)ENIGMABALLZ",
-				"time": 1632895667
+				"player_name": "(4)ENIGMABALLZ",
+				"time": 1633522958
 			},
 			"steamid": "[U:1:1208150701]"
 		},
@@ -551,8 +545,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(4)ENIGMABALLZ",
-				"time": 1633335843
+				"player_name": "ENIGMABALLZ",
+				"time": 1633522411
 			},
 			"steamid": "[U:1:1208243613]"
 		},
@@ -571,8 +565,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)ENIGMABALLZ",
-				"time": 1633343477
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633524097
 			},
 			"steamid": "[U:1:1208380510]"
 		},
@@ -581,8 +575,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)ENIGMABALLZ",
-				"time": 1633343697
+				"player_name": "(4)ENIGMABALLZ",
+				"time": 1633418027
 			},
 			"steamid": "[U:1:1208474057]"
 		},
@@ -611,8 +605,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(5)ENIGMABALLZ",
-				"time": 1632984759
+				"player_name": "(2)ENIGMABALLZ",
+				"time": 1633417807
 			},
 			"steamid": "[U:1:1208568510]"
 		},
@@ -622,7 +616,7 @@
 			],
 			"last_seen": {
 				"player_name": "ENIGMABALLZ",
-				"time": 1633340915
+				"time": 1633523366
 			},
 			"steamid": "[U:1:1208611617]"
 		},
@@ -860,8 +854,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(5)ENIGMABALLZ",
-				"time": 1633335843
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633417869
 			},
 			"steamid": "[U:1:1219965076]"
 		},
@@ -890,8 +884,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)ENIGMABALLZ",
-				"time": 1632392966
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633522933
 			},
 			"steamid": "[U:1:1220129098]"
 		},
@@ -920,8 +914,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)ENIGMABALLZ",
-				"time": 1632730514
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633522983
 			},
 			"steamid": "[U:1:1220259006]"
 		},
@@ -940,8 +934,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)ENIGMABALLZ",
-				"time": 1633332893
+				"player_name": "ENIGMABALLZ",
+				"time": 1633523256
 			},
 			"steamid": "[U:1:1220390771]"
 		},
@@ -950,8 +944,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(4)ENIGMABALLZ",
-				"time": 1632985521
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633522601
 			},
 			"steamid": "[U:1:1220410246]"
 		},
@@ -961,7 +955,7 @@
 			],
 			"last_seen": {
 				"player_name": "ENIGMABALLZ",
-				"time": 1632734465
+				"time": 1633522907
 			},
 			"steamid": "[U:1:1220451584]"
 		},
@@ -970,8 +964,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ENIGMABALLZ",
-				"time": 1633335843
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633523398
 			},
 			"steamid": "[U:1:1220480104]"
 		},
@@ -980,8 +974,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)ENIGMABALLZ",
-				"time": 1633342678
+				"player_name": "(5)ENIGMABALLZ",
+				"time": 1633416850
 			},
 			"steamid": "[U:1:1220500968]"
 		},
@@ -990,8 +984,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)ENIGMABALLZ",
-				"time": 1632898657
+				"player_name": "(2)ENIGMABALLZ",
+				"time": 1633523041
 			},
 			"steamid": "[U:1:1220526137]"
 		},
@@ -1010,8 +1004,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ENIGMABALLZ",
-				"time": 1633342374
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633418098
 			},
 			"steamid": "[U:1:1220698471]"
 		},
@@ -1814,8 +1808,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)ENIGMABALLZ",
-				"time": 1633332893
+				"player_name": "ENIGMABALLZ",
+				"time": 1633523878
 			},
 			"steamid": "[U:1:1242839610]"
 		},
@@ -1824,8 +1818,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(6)ENIGMABALLZ",
-				"time": 1632985521
+				"player_name": "ENIGMABALLZ",
+				"time": 1633417964
 			},
 			"steamid": "[U:1:1242976929]"
 		},
@@ -1844,8 +1838,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ENIGMABALLZ",
-				"time": 1632985496
+				"player_name": "(2)ENIGMABALLZ",
+				"time": 1633519477
 			},
 			"steamid": "[U:1:1243030980]"
 		},
@@ -1854,8 +1848,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(4)ENIGMABALLZ",
-				"time": 1633332382
+				"player_name": "(6)ENIGMABALLZ",
+				"time": 1633417162
 			},
 			"steamid": "[U:1:1243035729]"
 		},
@@ -1865,7 +1859,7 @@
 			],
 			"last_seen": {
 				"player_name": "ENIGMABALLZ",
-				"time": 1633343672
+				"time": 1633523475
 			},
 			"steamid": "[U:1:1243087343]"
 		},
@@ -1884,8 +1878,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)ENIGMABALLZ",
-				"time": 1633343312
+				"player_name": "(2)ENIGMABALLZ",
+				"time": 1633417062
 			},
 			"steamid": "[U:1:1243178497]"
 		},
@@ -1914,8 +1908,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)ENIGMABALLZ",
-				"time": 1633333072
+				"player_name": "ENIGMABALLZ",
+				"time": 1633418201
 			},
 			"steamid": "[U:1:1243374372]"
 		},
@@ -1924,8 +1918,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)ENIGMABALLZ",
-				"time": 1633340563
+				"player_name": "(4)ENIGMABALLZ",
+				"time": 1633417162
 			},
 			"steamid": "[U:1:1243494258]"
 		},
@@ -2445,7 +2439,7 @@
 			],
 			"last_seen": {
 				"player_name": "(1)ENIGMABALLZ",
-				"time": 1632984671
+				"time": 1633523230
 			},
 			"steamid": "[U:1:1247515775]"
 		},
@@ -2454,8 +2448,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)ENIGMABALLZ",
-				"time": 1632726487
+				"player_name": "(2)ENIGMABALLZ",
+				"time": 1633417093
 			},
 			"steamid": "[U:1:1247613724]"
 		},
@@ -2464,8 +2458,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)ENIGMABALLZ",
-				"time": 1632984671
+				"player_name": "ENIGMABALLZ",
+				"time": 1633522569
 			},
 			"steamid": "[U:1:1247691631]"
 		},
@@ -2474,8 +2468,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)ENIGMABALLZ",
-				"time": 1632898337
+				"player_name": "(1)ENIGMABALLZ",
+				"time": 1633417042
 			},
 			"steamid": "[U:1:1247711839]"
 		},
@@ -2494,8 +2488,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ENIGMABALLZ",
-				"time": 1633340728
+				"player_name": "(5)ENIGMABALLZ",
+				"time": 1633417528
 			},
 			"steamid": "[U:1:1247797592]"
 		},
@@ -2504,8 +2498,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)ENIGMABALLZ",
-				"time": 1633332893
+				"player_name": "(5)ENIGMABALLZ",
+				"time": 1633523066
 			},
 			"steamid": "[U:1:1247894541]"
 		},
@@ -2535,7 +2529,7 @@
 			],
 			"last_seen": {
 				"player_name": "(1)ENIGMABALLZ",
-				"time": 1633340310
+				"time": 1633417068
 			},
 			"steamid": "[U:1:1248283262]"
 		},
