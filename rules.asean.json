@@ -160,7 +160,8 @@
 					"patterns": [
 						"Enigm",
 						"igmab",
-						"enigmaballz"
+						"enigmaballz",
+                                                ")Assassin"
 					]
 				}
 			}
@@ -178,8 +179,7 @@
 					"mode": "contains",
 					"patterns": [
 						"Enigm",
-						"igmab",
-						")Assassin"
+						"igmab"
 					]
 				}
 			}
