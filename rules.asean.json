@@ -225,7 +225,7 @@
                         "triggers": {
                                 "personaname_text_match": {
                                         "case_sensitive": true,
-                                        "mode": "equal",
+                                        "mode": "ends_with",
                                         "patterns": [
                                                 "Assassin"
                                         ]
