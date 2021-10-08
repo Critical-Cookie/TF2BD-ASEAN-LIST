@@ -160,8 +160,7 @@
 					"patterns": [
 						"Enigm",
 						"igmab",
-						"enigmaballz",
-                                                ")Assassin"
+						"enigmaballz"
 					]
 				}
 			}
@@ -199,6 +198,40 @@
 				]
 			}
 		},
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Rundall Assassin Bots (w/Enigmaballz) ingame name - TF2BD-ASEAN",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": true,
+                                        "mode": "equal",
+                                        "patterns": [
+                                                "Assassin"
+                                        ]
+                                }
+                        }
+                },
+		{
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "Rundall Assassin Bots (w/Enigmaballz) Steam name - TF2BD-ASEAN",
+                        "triggers": {
+                                "personaname_text_match": {
+                                        "case_sensitive": true,
+                                        "mode": "equal",
+                                        "patterns": [
+                                                "Assassin"
+                                        ]
+                                }
+                        }
+                },
 		{
 			"actions": {
 				"mark": [
