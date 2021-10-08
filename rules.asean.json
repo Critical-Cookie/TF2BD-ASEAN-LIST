@@ -329,6 +329,23 @@
                                         "cheater"
                                 ]
                         },
+                        "description": "d3fc0n6 - TF2BD-ASEAN",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "d3fc0n6"
+                                        ]
+                                }
+                        }
+                },
+                {
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
                         "description": "Valve Allows Cheats Bots avatar match - TF2BD-ASEAN",
                         "triggers": {
                                 "avatar_match": [
