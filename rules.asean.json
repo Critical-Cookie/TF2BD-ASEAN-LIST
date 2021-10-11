@@ -387,6 +387,23 @@
                                         }
                                 ]
                         }
+                },
+                {
+                        "actions": {
+                                "mark": [
+                                        "cheater"
+                                ]
+                        },
+                        "description": "DMC-bot username match - TF2BD-ASEAN",
+                        "triggers": {
+                                "username_text_match": {
+                                        "case_sensitive": false,
+                                        "mode": "contains",
+                                        "patterns": [
+                                                "DMC-bot"
+                                        ]
+                                }
+                        }
                 }
 	]
 }
