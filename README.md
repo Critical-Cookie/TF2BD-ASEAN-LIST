@@ -32,7 +32,9 @@ Legend:
 - The WIP rules.asean.json is made for ONLY BOTS detection
 so I can keep what's left of my Insanity rather than go through another hundred hashes of UUID's when manually adding new bots to the playerlist.
 
-- The playerlist.asean.json is made for _BOTH_ Bots _AND_ Bot Hosters/Cheaters within ASEAN Casual servers that are not found within the TF2 BD's official list
+- The playerlist.asean.json is made for _BOTH_ Bots _AND_ Bot Hosters/Cheaters within ASEAN Casual servers that are not found within the TF2 BD's official list. 
+please note this will also contain some of my suspicious markings for players who i've deemed suspicious.
+Those deemed suspicious must hit multiple suspicious factors, such as a VAC ban younger than 2 years and suspicious gameplay that's beyond professional.
 
 I recommend using BOTH at the same time for efficient Bot detection in South East Asian servers! As well as disabling TF2 BD's Chat messages for efficiently stealth marking all Bots!
 (Tell people about the bots the old fashioned away, via text chat)
@@ -44,7 +46,7 @@ I recommend using BOTH at the same time for efficient Bot detection in South Eas
 At the moment I will be the only Author, as this pet project of mine is extremely new.
 This is also done for authenticity and trust reasons. 
 
-This way you will have only me and my hatred for bots to give your trust.
+This way you will have only me and my hatred for bots to have given your trust.
 
 I will be allowing public contributions in the future for me and a set of trusted authors to filter through,
 but as of now, I'd like this project and contributions to be maintained by just me.
