@@ -11,7 +11,7 @@
 	"rules": [
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -26,14 +26,15 @@
 						"discord.me/",
 						"dsc.gg/",
 						"youtube.com/",
-						"youtu.be/"
+						"youtu.be/",
+						"shoppy.gg"
 					]
 				}
 			}
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -56,7 +57,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -77,80 +78,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "BABYRAGE REGEX - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": true,
-					"mode": "regex",
-					"patterns": [
-						"(\\([1-9]\\d?\\))?discord\\.io/babyrage \\| yt/l1tty",
-						"(\\([1-9]\\d?\\))?discord\\.io/marl \\| ANTI BOT",
-						"(\\([1-9]\\d?\\))?shoppy\\.gg/@L1tty"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"suspicious"
-				]
-			},
-			"description": "Babyrage avatar match or URL name - TF2BD-ASEAN",
-			"triggers": {
-				"avatar_match": [
-					{
-						"avatar_hash": "71c1def5db7630fc31503447e80975a31178ac3e"
-					},
-					{
-						"avatar_hash": "8b6ac7f47465876f01d72db54f5a2d7e00fb45ec"
-					},
-					{
-						"avatar_hash": "f9b0bb43e27bd415747f6dd49a041c39f6111e98"
-					},
-					{
-						"avatar_hash": "fb6b7d8a9440856dcc5b66966ba75a7a91822c54"
-					},
-					{
-						"avatar_hash": "732cc3b93c9c94d182aac5690dd17cdd8677098e"
-					},
-					{
-						"avatar_hash": "f9b0bb43e27bd415747f6dd49a041c39f6111e98"
-					},
-					{
-						"avatar_hash": "7710b08249bab901afef1420b8780cc0df4ddd90"
-					},
-					{
-						"avatar_hash": "f1928a1c6244fcd81b2354fb683a1c42d629d63f"
-					},
-					{
-						"avatar_hash": "f3b24c86ce4cc405e339f0258da430ac1ceefcf1"
-					}
-				]
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "EAC | Texashook avatar match - TF2BD-ASEAN",
-			"triggers": {
-				"avatar_match": [
-					{
-						"avatar_hash": "2c88839eb681a3d546d433f7784b29eb5e2bd7a4"
-					}
-				]
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -169,7 +97,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -187,56 +115,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Enigmaballz avatar match - TF2BD-ASEAN",
-			"triggers": {
-				"avatar_match": [
-					{
-						"avatar_hash": "8f787819b438234acce52ce781291d83df34d008"
-					}
-				]
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Rundall Assassin Bots (w/Enigmaballz) ingame name - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": true,
-					"mode": "ends_with",
-					"patterns": [
-						"Assassin"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Rundall Assassin Bots (w/Enigmaballz) Steam name - TF2BD-ASEAN",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": true,
-					"mode": "ends_with",
-					"patterns": [
-						"Assassin"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -255,7 +134,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -273,7 +152,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -290,7 +169,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -307,7 +186,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -324,41 +203,7 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Snake Update Bots - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"snake update lets goo"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Unknown Valve Allows Cheats Bots - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"VAC = Valve Allows Cheats"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
@@ -369,38 +214,6 @@
 					"mode": "contains",
 					"patterns": [
 						"d3fc0n6"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Valve Allows Cheats Bots avatar match - TF2BD-ASEAN",
-			"triggers": {
-				"avatar_match": [
-					{
-						"avatar_hash": "8f45f6bb97688561515d1622ffbfe2806a7016e5"
-					}
-				]
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "DMC-bot username match - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"DMC-bot"
 					]
 				}
 			}
