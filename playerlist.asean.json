@@ -17,7 +17,7 @@
 				"player_name": "irc.myg0t.gg:6667#myg0t",
 				"time": 1642587532
 			},
-			"steamid": "[U:1:45516656]"
+			"steamid": "[U:1:45516655]"
 		},
 		{
 			"attributes": [
@@ -88,6 +88,16 @@
 				"time": 1633366592
 			},
 			"steamid": "[U:1:157010330]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1643041845
+			},
+			"steamid": "[U:1:244346019]"
 		},
 		{
 			"attributes": [
@@ -171,6 +181,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(2)DoesHotter",
+				"time": 1642775316
+			},
+			"steamid": "[U:1:888798933]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)DoesHotter",
 				"time": 1633362908
 			},
@@ -191,7 +211,7 @@
 			],
 			"last_seen": {
 				"player_name": "(1)DoesHotter",
-				"time": 1632297558
+				"time": 1642775284
 			},
 			"steamid": "[U:1:891821688]"
 		},
@@ -286,8 +306,28 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(1)irc.myg0t.gg:6667#myg0t",
+				"time": 1642775654
+			},
+			"steamid": "[U:1:1118803078]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "irc.myg0t.gg:6667#myg0t",
-				"time": 1642589917
+				"time": 1643038672
+			},
+			"steamid": "[U:1:1119058982]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642776392
 			},
 			"steamid": "[U:1:1128604508]"
 		},
@@ -317,7 +357,7 @@
 			],
 			"last_seen": {
 				"player_name": "irc.myg0t.gg:6667#myg0t",
-				"time": 1642590324
+				"time": 1642780084
 			},
 			"steamid": "[U:1:1128670862]"
 		},
@@ -326,8 +366,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)royalhack.net B0T",
-				"time": 1636732660
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642775109
 			},
 			"steamid": "[U:1:1128716117]"
 		},
@@ -366,10 +406,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642604700
+			},
+			"steamid": "[U:1:1132868334]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(2)royalhack.net B0T",
 				"time": 1636734036
 			},
 			"steamid": "[U:1:1132874970]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642779493
+			},
+			"steamid": "[U:1:1133040235]"
 		},
 		{
 			"attributes": [
@@ -507,7 +567,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1633340795
+				"time": 1642775517
 			},
 			"steamid": "[U:1:1181065911]"
 		},
@@ -676,6 +736,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(1)irc.myg0t.gg:6667#myg0t",
+				"time": 1642691516
+			},
+			"steamid": "[U:1:1197814011]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "royalhack.net B0T",
 				"time": 1636714943
 			},
@@ -686,8 +756,38 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "royalhack.net B0T",
-				"time": 1636732598
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642772553
+			},
+			"steamid": "[U:1:1197899836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642610149
+			},
+			"steamid": "[U:1:1197906926]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)irc.myg0t.gg:6667#myg0t",
+				"time": 1642610175
+			},
+			"steamid": "[U:1:1197909590]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642691541
 			},
 			"steamid": "[U:1:1197929520]"
 		},
@@ -716,10 +816,20 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "royalhack.net B0T",
-				"time": 1636733581
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642691805
 			},
 			"steamid": "[U:1:1198062750]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "irc.myg0t.gg:6667#myg0t",
+				"time": 1642775629
+			},
+			"steamid": "[U:1:1198090875]"
 		},
 		{
 			"attributes": [
@@ -1610,10 +1720,40 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "[VAC] OneTrick",
+				"time": 1642779997
+			},
+			"steamid": "[U:1:1236840134]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)[VAC] OneTrick",
+				"time": 1642693726
+			},
+			"steamid": "[U:1:1236898386]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "O.T.O.B.E.R.F.E.S.T.",
 				"time": 1630659587
 			},
 			"steamid": "[U:1:1236907817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VAC] OneTrick",
+				"time": 1642600950
+			},
+			"steamid": "[U:1:1237168967]"
 		},
 		{
 			"attributes": [
@@ -1770,6 +1910,16 @@
 				"time": 1632294443
 			},
 			"steamid": "[U:1:1241987532]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1642601642
+			},
+			"steamid": "[U:1:1241988343]"
 		},
 		{
 			"attributes": [
@@ -1940,6 +2090,16 @@
 				"time": 1634294769
 			},
 			"steamid": "[U:1:1243494258]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "troll #fun #ez",
+				"time": 1642778078
+			},
+			"steamid": "[U:1:1243707204]"
 		},
 		{
 			"attributes": [
@@ -2600,6 +2760,16 @@
 				"time": 1634409613
 			},
 			"steamid": "[U:1:1254985353]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VAC] OneTrick",
+				"time": 1642693701
+			},
+			"steamid": "[U:1:1263185149]"
 		}
 	]
 }
