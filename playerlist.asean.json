@@ -31,6 +31,26 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "twitch.tv/rainbro8",
+				"time": 1643638667
+			},
+			"steamid": "[U:1:94829543]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1643206928
+			},
+			"steamid": "[U:1:96403174]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -866,8 +886,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ENIGMABALLZ",
-				"time": 1633522411
+				"player_name": "dsc.gg/Valve",
+				"time": 1643118606
 			},
 			"steamid": "[U:1:1208243613]"
 		},
@@ -876,8 +896,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(5)ENIGMABALLZ",
-				"time": 1634295627
+				"player_name": "dsc.gg/Valve",
+				"time": 1643119059
 			},
 			"steamid": "[U:1:1208293037]"
 		},
@@ -1867,7 +1887,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1632896489
+				"time": 1643302749
 			},
 			"steamid": "[U:1:1241724336]"
 		},
@@ -2770,6 +2790,26 @@
 				"time": 1642693701
 			},
 			"steamid": "[U:1:1263185149]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VAC] OneTrick",
+				"time": 1643300579
+			},
+			"steamid": "[U:1:1275563752]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VAC] OneTrick",
+				"time": 1643206809
+			},
+			"steamid": "[U:1:1275766053]"
 		}
 	]
 }
