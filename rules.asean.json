@@ -190,13 +190,14 @@
 					"cheater"
 				]
 			},
-			"description": "Sauucey Bot Detection - TF2BD-ASEAN",
+			"description": "myg0t Bot Detection - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"Sauucey"
+						"www.myg0t.win",
+						"irc.myg0t.gg"
 					]
 				}
 			}
