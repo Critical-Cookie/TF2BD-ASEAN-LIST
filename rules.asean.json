@@ -61,27 +61,6 @@
 					"cheater"
 				]
 			},
-			"description": "Babyrage Steam name - TF2BD-ASEAN",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Babyrage",
-						"Serrabella",
-						"[ATG]",
-						"lickass",
-						"l1tty"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
 			"description": "Enigmaballz ingame name - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
@@ -128,41 +107,6 @@
 						"Texashook",
 						"_Femboy",
 						"youtube-eactf2"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "EAC | Texashook Steam name - TF2BD-ASEAN",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Texashook",
-						"_Femboy"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "Brandon Aldridge Bot Detection - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Brandon Aldridge"
 					]
 				}
 			}
@@ -232,6 +176,23 @@
 					"mode": "contains",
 					"patterns": [
 						"hehehehehe"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "testing BOTS - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"just testing"
 					]
 				}
 			}
