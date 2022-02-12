@@ -186,13 +186,13 @@
 					"cheater"
 				]
 			},
-			"description": "testing BOTS - TF2BD-ASEAN",
+			"description": "sketchek BOTS - TF2BD-ASEAN",
 			"triggers": {
-				"username_text_match": {
+				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"just testing"
+						"sketchek"
 					]
 				}
 			}
