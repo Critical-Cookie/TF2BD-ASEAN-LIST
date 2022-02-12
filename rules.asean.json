@@ -175,8 +175,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"hehehehehe",
-						"cat-bot"
+						"hehehehehe"
 					]
 				}
 			}
@@ -193,7 +192,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"sketchek"
+						"sketchek",
+						"cat-bot"
 					]
 				}
 			}
