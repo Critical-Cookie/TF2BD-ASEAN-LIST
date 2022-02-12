@@ -218,6 +218,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "hehehehehe BOTS - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"hehehehehe"
+					]
+				}
+			}
 		}
 	]
 }
