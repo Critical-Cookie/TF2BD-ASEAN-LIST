@@ -104,7 +104,8 @@
 					"mode": "contains",
 					"patterns": [
 						"Enigm",
-						"igmab"
+						"igmab",
+						"disc.gg"
 					]
 				}
 			}
