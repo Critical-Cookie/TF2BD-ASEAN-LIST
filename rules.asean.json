@@ -175,7 +175,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"hehehehehe"
+						"hehehehehe",
+						"cat-bot"
 					]
 				}
 			}
