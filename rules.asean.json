@@ -25,10 +25,11 @@
 						"discord.gg/",
 						"discord.me/",
 						"dsc.gg/",
+						"disc.gg/",
 						"youtube.com/",
 						"youtu.be/",
 						"shoppy.gg",
-						"DISCORD.GG/AJAmUUt8"
+						"DISCORD.GG/"
 					]
 				}
 			}
@@ -106,8 +107,7 @@
 					"mode": "contains",
 					"patterns": [
 						"Enigm",
-						"igmab",
-						"disc.gg"
+						"igmab"
 					]
 				}
 			}
@@ -126,7 +126,8 @@
 					"patterns": [
 						"Texashook",
 						"_Femboy",
-						"youtube-eactf2"
+						"youtube-eactf2",
+						"youtube.eac"
 					]
 				}
 			}
@@ -179,23 +180,6 @@
 					"mode": "contains",
 					"patterns": [
 						"d3fc0n6"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "hehehehehe BOTS - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"hehehehehe"
 					]
 				}
 			}
