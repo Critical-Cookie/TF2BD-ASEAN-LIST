@@ -96,24 +96,6 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "Rathook Bot MESSAGE detection - TF2BD-ASEAN",
-			"triggers": {
-				"chatmsg_text_match": {
-					"case_sensitive": false,
-					"mode": "ends_with",
-					"patterns": [
-						"SINGAPORE SEIZED BY RATHOOK.CC!",
-						"SINGAPORE MUST BE SIEZED!"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
 				"mark": [
 					"cheater"
 				]
@@ -216,6 +198,41 @@
 					"patterns": [
 						"sketchek",
 						"cat-bot"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "Rathook Bot MESSAGE detection - TF2BD-ASEAN",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "ends_with",
+					"patterns": [
+						"SINGAPORE SEIZED BY RATHOOK.CC!",
+						"SINGAPORE MUST BE SIEZED!"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"transient_mark": [
+					"cheater"
+				]
+			},
+			"description": "Ban USA Bot MESSAGE detection - TF2BD-ASEAN",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "ends_with",
+					"patterns": [
+						"BAN USA FROM OLYMPIC GAMES!"
 					]
 				}
 			}
