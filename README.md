@@ -19,8 +19,7 @@ Legend:
 
 **_PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
-**_Our Discord: Anti-Bot-Club https://discord.gg/S6nxQeCe9E_**
-
+**_Discord Server link: (removed for the time being)_**
 
 
 ## What are the use cases of either list or ruleset?
@@ -35,7 +34,7 @@ Those deemed suspicious must hit multiple suspicious factors, such as a VAC ban 
 I recommend using BOTH at the same time for efficient Bot detection in South East Asian servers! As well as disabling TF2 BD's Chat messages for efficiently stealth marking all Bots!
 (Tell people about the bots the old fashioned away, via text chat)
  
-**_(Please report any false positives to the Discord server above)_**
+**_(Please report any false positives to the Help Email below)_**
 
 ## Can I contribute?
 
