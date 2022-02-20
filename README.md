@@ -9,7 +9,6 @@ __Bots included in this list originate from the following country's gameservers_
 - [x] Singapore
 - [x] Hong Kong
 - [x] India
-- [ ] Japan
 
 Legend: 
 - [ ] = Not yet supported
