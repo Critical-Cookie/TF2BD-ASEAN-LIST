@@ -96,7 +96,7 @@
 		},
 		{
 			"actions": {
-				"mark": [
+				"transient_mark": [
 					"cheater"
 				]
 			},
