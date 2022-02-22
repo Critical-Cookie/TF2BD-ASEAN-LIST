@@ -204,18 +204,17 @@
 		},
 		{
 			"actions": {
-				"transient_mark": [
+				"mark": [
 					"cheater"
 				]
 			},
-			"description": "Rathook Bot MESSAGE detection - TF2BD-ASEAN",
+			"description": "yjbothost Steam Name detection! - TF2BD-ASEAN",
 			"triggers": {
-				"chatmsg_text_match": {
+				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "ends_with",
 					"patterns": [
-						"SINGAPORE SEIZED BY RATHOOK.CC!",
-						"SINGAPORE MUST BE SIEZED!"
+						"yjbothost"
 					]
 				}
 			}
