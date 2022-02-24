@@ -190,14 +190,15 @@
 					"cheater"
 				]
 			},
-			"description": "sketchek BOTS - TF2BD-ASEAN",
+			"description": "miscellaneous BOTS - TF2BD-ASEAN",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
 						"sketchek",
-						"cat-bot"
+						"cat-bot",
+						"0utlaw"
 					]
 				}
 			}
@@ -225,7 +226,7 @@
 					"cheater"
 				]
 			},
-			"description": "Ban USA Bot MESSAGE detection - TF2BD-ASEAN",
+			"description": "BOT SPAM / CHAT EXPLOIT detection - TF2BD-ASEAN",
 			"triggers": {
 				"chatmsg_text_match": {
 					"case_sensitive": false,
