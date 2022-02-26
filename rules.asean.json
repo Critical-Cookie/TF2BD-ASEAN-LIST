@@ -83,6 +83,23 @@
 					"cheater"
 				]
 			},
+			"description": "Enigmaballz STEAM name - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"lickass"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
 			"description": "Assassin BOTS - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
