@@ -94,5 +94,5 @@ The purpose of my pet project is to include Asian Bots that are NOT within any o
 ## I found UUID's or Rules that are targetting legitimate players!
 Please send in details of the false positive in the Discord server above within the issue channel.
 
-**_I am currently contactable for any other general questions involving this hobby project via cookiecomplaints@whowho.anonaddy.me_**
+**_I am currently contactable for any other general questions involving this hobby project via (removed for the time being)_**
 
