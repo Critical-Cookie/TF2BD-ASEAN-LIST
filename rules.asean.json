@@ -248,26 +248,9 @@
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
-					"mode": "ends_with",
+					"mode": "starts_with",
 					"patterns": [
 						"default"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"transient_mark": [
-					"cheater"
-				]
-			},
-			"description": "BOT SPAM / CHAT EXPLOIT detection - TF2BD-ASEAN",
-			"triggers": {
-				"chatmsg_text_match": {
-					"case_sensitive": false,
-					"mode": "ends_with",
-					"patterns": [
-						"BAN USA FROM OLYMPIC GAMES!"
 					]
 				}
 			}
