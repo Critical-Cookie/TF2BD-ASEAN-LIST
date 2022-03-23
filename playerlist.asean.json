@@ -14,6 +14,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1646842141
+			},
+			"steamid": "[U:1:45132672]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "irc.myg0t.gg:6667#myg0t",
 				"time": 1642587532
 			},
@@ -28,6 +38,27 @@
 				"time": 1630347261
 			},
 			"steamid": "[U:1:50314901]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "aff;;",
+				"time": 1646844842
+			},
+			"steamid": "[U:1:58289100]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1646658550
+			},
+			"steamid": "[U:1:63087379]"
 		},
 		{
 			"attributes": [
@@ -84,8 +115,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)DoesHotter",
-				"time": 1644416653
+				"player_name": "DoesHotter",
+				"time": 1646845468
 			},
 			"steamid": "[U:1:104534298]"
 		},
@@ -134,6 +165,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1646843014
+			},
+			"steamid": "[U:1:118173999]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "www.myg0t.win",
 				"time": 1644338713
 			},
@@ -174,6 +215,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1646843560
+			},
+			"steamid": "[U:1:123946667]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)DoesHotter",
 				"time": 1646320438
 			},
@@ -204,10 +255,20 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)DoesHotter",
-				"time": 1645715979
+				"player_name": "DoesHotter",
+				"time": 1646918703
 			},
 			"steamid": "[U:1:157162136]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1646920927
+			},
+			"steamid": "[U:1:161015647]"
 		},
 		{
 			"attributes": [
@@ -382,7 +443,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1645028576
+				"time": 1646840913
 			},
 			"steamid": "[U:1:891803801]"
 		},
@@ -961,6 +1022,16 @@
 				"time": 1632294149
 			},
 			"steamid": "[U:1:1146285081]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648047039
+			},
+			"steamid": "[U:1:1149974788]"
 		},
 		{
 			"attributes": [
@@ -1598,7 +1669,7 @@
 			],
 			"last_seen": {
 				"player_name": "dsc.gg/Valve",
-				"time": 1645532526
+				"time": 1646658651
 			},
 			"steamid": "[U:1:1208243613]"
 		},
@@ -2036,7 +2107,7 @@
 			],
 			"last_seen": {
 				"player_name": "dsc.gg/Valve",
-				"time": 1646304814
+				"time": 1646658588
 			},
 			"steamid": "[U:1:1220500968]"
 		},
@@ -2182,7 +2253,7 @@
 			],
 			"last_seen": {
 				"player_name": "Assassin",
-				"time": 1644688762
+				"time": 1646921416
 			},
 			"steamid": "[U:1:1221922816]"
 		},
@@ -2638,7 +2709,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1646318517
+				"time": 1647792527
 			},
 			"steamid": "[U:1:1241526185]"
 		},
@@ -2657,8 +2728,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1646581289
+				"player_name": "(1)DoesHotter",
+				"time": 1646840638
 			},
 			"steamid": "[U:1:1241781061]"
 		},
@@ -2668,7 +2739,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1646317377
+				"time": 1646840157
 			},
 			"steamid": "[U:1:1241837888]"
 		},
@@ -2718,7 +2789,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1642601642
+				"time": 1647794267
 			},
 			"steamid": "[U:1:1241988343]"
 		},
@@ -2728,7 +2799,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1646319250
+				"time": 1647185593
 			},
 			"steamid": "[U:1:1242081519]"
 		},
@@ -2738,7 +2809,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1646317202
+				"time": 1646658714
 			},
 			"steamid": "[U:1:1242188919]"
 		},
@@ -2758,7 +2829,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1646241096
+				"time": 1647792036
 			},
 			"steamid": "[U:1:1242294083]"
 		},
@@ -2871,6 +2942,16 @@
 				"time": 1633340537
 			},
 			"steamid": "[U:1:1243187780]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "iqbalBinkudung",
+				"time": 1647793155
+			},
+			"steamid": "[U:1:1243259205]"
 		},
 		{
 			"attributes": [
@@ -3561,6 +3642,16 @@
 				"time": 1633340600
 			},
 			"steamid": "[U:1:1248450248]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GeorgeFloydismuslim!!!",
+				"time": 1646920061
+			},
+			"steamid": "[U:1:1252028271]"
 		},
 		{
 			"attributes": [
