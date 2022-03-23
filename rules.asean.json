@@ -240,6 +240,23 @@
 		},
 		{
 			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Default Bot Steam Name detection! - TF2BD-ASEAN",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "ends_with",
+					"patterns": [
+						"default"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
 				"transient_mark": [
 					"cheater"
 				]
