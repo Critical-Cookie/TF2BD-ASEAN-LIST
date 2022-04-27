@@ -3911,6 +3911,36 @@
 				"time": 1645806358
 			},
 			"steamid": "[U:1:1286108374]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "highflyman",
+				"time": 1645806360
+			},
+			"steamid": "[U:1:447731402]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "an a L O G u e",
+				"time": 1645806363
+			},
+			"steamid": "[U:1:1256421340]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "忙しい人のため",
+				"time": 1645806373
+			},
+			"steamid": "[U:1:891373487]"
 		}
 	]
 }
