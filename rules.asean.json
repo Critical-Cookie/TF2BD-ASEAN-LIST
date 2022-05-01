@@ -208,7 +208,7 @@
 					"cheater"
 				]
 			},
-			"description": "miscellaneous BOTS - TF2BD-ASEAN",
+			"description": "miscellaneous BOTS Steam Name - TF2BD-ASEAN",
 			"triggers": {
 				"personaname_text_match": {
 					"case_sensitive": false,
@@ -217,6 +217,23 @@
 						"sketchek",
 						"cat-bot",
 						"0utlaw"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "miscellaneous BOTS Ingame Name - TF2BD-ASEAN",
+			"triggers": {
+				"personaname_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"m4gic"
 					]
 				}
 			}
