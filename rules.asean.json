@@ -271,6 +271,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "mira bot detection! - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "ends_with",
+					"patterns": [
+						"mira"
+					]
+				}
+			}
 		}
 	]
 }
