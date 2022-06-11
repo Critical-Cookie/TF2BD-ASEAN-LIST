@@ -305,6 +305,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "W+M1 Gang Bot detection! - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "ends_with",
+					"patterns": [
+						"W+M1 Gang"
+					]
+				}
+			}
 		}
 	]
 }
