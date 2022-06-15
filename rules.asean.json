@@ -322,6 +322,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "namestealing bot detection! - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "ends_with",
+					"patterns": [
+						"\u2063"
+					]
+				}
+			}
 		}
 	]
 }
