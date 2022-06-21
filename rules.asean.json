@@ -339,6 +339,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Andr0medA #PRIDE! bot detection! - TF2BD-ASEAN",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"Andr0medA #PRIDE!"
+					]
+				}
+			}
 		}
 	]
 }
