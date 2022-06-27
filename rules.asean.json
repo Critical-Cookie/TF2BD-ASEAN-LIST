@@ -103,10 +103,10 @@
 			"description": "Assassin BOTS - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
-					"case_sensitive": false,
+					"case_sensitive": true,
 					"mode": "ends_with",
 					"patterns": [
-						")Assassin"
+						"Assassin"
 					]
 				}
 			}
