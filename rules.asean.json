@@ -106,7 +106,7 @@
 					"case_sensitive": false,
 					"mode": "ends_with",
 					"patterns": [
-						"Assassin"
+						")Assassin"
 					]
 				}
 			}
