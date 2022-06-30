@@ -19,7 +19,7 @@
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
-					"mode": "contains",
+					"mode": "ends_with",
 					"patterns": [
 						"discord.io/",
 						"discord.gg/",
@@ -53,7 +53,8 @@
 						"discord.io/babyrage",
 						"discord.io/marl",
 						"shoppy.gg/@L1tty",
-						"Vivy Ophelia HvL"
+						"Vivy Ophelia",
+						"MiraX"
 					]
 				}
 			}
