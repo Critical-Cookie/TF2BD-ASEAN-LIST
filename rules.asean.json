@@ -358,6 +358,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "m4gic bot detection! - TF2BD-ASEAN",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"m4gic m4gic m4gic"
+					]
+				}
+			}
 		}
 	]
 }
