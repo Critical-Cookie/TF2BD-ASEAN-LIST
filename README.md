@@ -2,8 +2,9 @@
 List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
 ASEAN region bots not found in the other lists or rules such as the 
 Enigmaballz Bots.
+- (Check out our Discord! at https://discord.gg/rkqXFkUH3n)
 
-**Check out our Discord! at https://discord.gg/rkqXFkUH3n**
+- (If you feel you've been false marked in any of my lists or rules, please email me at criticalcookie@whowho.anonaddy.me)
 
 __Bots included in this list originate from the following country's gameservers__
 
@@ -20,8 +21,6 @@ Legend:
 
 **_PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
-**_Discord Server link: (removed for the time being)_**
-
 
 ## What are the use cases of either list or ruleset?
 
@@ -35,7 +34,6 @@ Those deemed suspicious must hit multiple suspicious factors, such as a VAC ban 
 I recommend using BOTH at the same time for efficient Bot detection in South East Asian servers! As well as disabling TF2 BD's Chat messages for efficiently stealth marking all Bots!
 (Tell people about the bots the old fashioned away, via text chat)
  
-**_(Please report any false positives to the Help Email below)_**
 
 ## Can I contribute?
 
@@ -92,8 +90,6 @@ The purpose of my pet project is to include Asian Bots that are NOT within any o
 (Bots only found within Trusted may have an exception, since many TF2 BD users may only be using Official, and not Trusted, since Trusted must be manually downloaded)
 
 
-## I found UUID's or Rules that are targetting legitimate players!
-Please send in details of the false positive in the Discord server above within the issue channel.
-
-**_I am currently contactable for any other general questions involving this hobby project via (removed for the time being)_**
+## I found UUID's or Rules that are targetting legitimate players/falsely targetting me!
+Please send in details of the false positive in the Discord server above within the issue channel, or send me a personal email in the email address above as well, and we can discuss a compromise/verify the false flag.
 
