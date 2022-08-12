@@ -375,6 +375,27 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Fedoraware bot detection! - TF2BD-ASEAN",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"Fedoraware - github.com/Fedoraware/Fedoraware",
+						"有时我很咸/有毒/前卫，但我实际上是个好人",
+						"台湾是一个国家",
+						"TF2 2022: youtube.com/watch?v=L0rw9HmYiHY",
+						"反馈： steamcommunity.com/id/ialexm0ds/allcomments"
+					]
+				}
+			}
 		}
 	]
 }
