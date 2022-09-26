@@ -2,7 +2,7 @@
 List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
 ASEAN region bots not found in the other lists or rules such as the 
 Enigmaballz Bots.
-- (Check out our Discord! at https://discord.gg/rkqXFkUH3n)
+- (Check out our Discord! at https://discord.gg/QqR7d6vRqX)
 
 - (If you feel you've been false marked in any of my lists or rules, please email me at criticalcookie@whowho.anonaddy.me)
 
