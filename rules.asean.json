@@ -193,23 +193,6 @@
 					"cheater"
 				]
 			},
-			"description": "d3fc0n6 - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"d3fc0n6"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
 			"description": "miscellaneous BOTS Steam Name - TF2BD-ASEAN",
 			"triggers": {
 				"personaname_text_match": {
