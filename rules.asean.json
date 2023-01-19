@@ -29,7 +29,29 @@
 						"youtube.com/",
 						"youtu.be/",
 						"shoppy.gg",
-						"DISCORD.GG/"
+						"DISCORD.GG/",
+						"lmaobox.net"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Bot Advertising Chat Detection - TF2BD-ASEAN",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "ends_with",
+					"patterns": [
+						"WWW.LMAOBOX.​NET - BEST TF2 HACKS!",
+						"GET GOOD GET LMAOBOX",
+						"LMAOBOX - WAY TO THE TOP",
+						"BUY IT NOW AT NULLCOREPROJECT.NET!",
+						"NULL CORE - WAY TO THE TOP!"
 					]
 				}
 			}
