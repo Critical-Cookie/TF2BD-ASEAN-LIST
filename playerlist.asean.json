@@ -4385,6 +4385,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Iruki Shin",
+				"time": 1674122651
+			},
+			"steamid": "[U:1:1266666815]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
