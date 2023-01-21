@@ -35,7 +35,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1654966072
+				"time": 1674229350
 			},
 			"steamid": "[U:1:40823423]"
 		},
@@ -1582,6 +1582,16 @@
 				"time": 1648047039
 			},
 			"steamid": "[U:1:1149974788]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ubu",
+				"time": 1674219202
+			},
+			"steamid": "[U:1:1158874942]"
 		},
 		{
 			"attributes": [
@@ -4385,11 +4395,11 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
 				"player_name": "Iruki Shin",
-				"time": 1674122651
+				"time": 1674305352
 			},
 			"steamid": "[U:1:1266666815]"
 		},
@@ -4841,6 +4851,16 @@
 				"time": 1657722380
 			},
 			"steamid": "[U:1:1297914745]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DefaultAvatar",
+				"time": 1674230459
+			},
+			"steamid": "[U:1:1297977244]"
 		},
 		{
 			"attributes": [
