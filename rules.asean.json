@@ -19,7 +19,7 @@
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
-					"mode": "ends_with",
+					"mode": "starts_with",
 					"patterns": [
 						"discord.io/",
 						"discord.gg/",
@@ -45,7 +45,7 @@
 			"triggers": {
 				"chatmsg_text_match": {
 					"case_sensitive": false,
-					"mode": "ends_with",
+					"mode": "contains",
 					"patterns": [
 						"WWW.LMAOBOX.​NET - BEST TF2 HACKS!",
 						"GET GOOD GET LMAOBOX",
