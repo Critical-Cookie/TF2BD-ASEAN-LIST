@@ -585,6 +585,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1676217826
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
+				"[auto] automatically marked: Cheater | reason: OMEGATRONIC-based bot"
+			],
+			"steamid": "[U:1:362658622]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "PotHat\u2063",
 				"time": 1655744075
 			},
@@ -746,6 +760,22 @@
 				"time": 1651764821
 			},
 			"steamid": "[U:1:859689885]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1675782356
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
+				"[auto] automatically marked: Cheater | reason: OMEGATRONIC-based bot",
+				"[auto] automatically marked: Cheater | reason: \"2fast4u\"",
+				"[auto] automatically marked: Cheater | reason: \"Dead.\""
+			],
+			"steamid": "[U:1:866167356]"
 		},
 		{
 			"attributes": [
@@ -922,6 +952,20 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "DoesHotter",
+				"time": 1675781461
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
+				"[auto] automatically marked: Cheater | reason: OMEGATRONIC-based bot"
+			],
+			"steamid": "[U:1:1027068208]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Valve NiggerExterminator",
 				"time": 1654452143
 			},
@@ -932,10 +976,39 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(1)DoesHotter",
+				"time": 1676217845
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
+				"[auto] automatically marked: Cheater | reason: OMEGATRONIC-based bot",
+				"DoesHotter Bot"
+			],
+			"steamid": "[U:1:1058485533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Brandon Aldridge (Currently dru",
 				"time": 1630346471
 			},
 			"steamid": "[U:1:1075214518]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)DoesHotter",
+				"time": 1676217845
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
+				"DoesHotter Bot"
+			],
+			"steamid": "[U:1:1086109779]"
 		},
 		{
 			"attributes": [
@@ -1518,11 +1591,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(6)COME TO UGANDA",
-				"time": 1674748062
+				"player_name": "COME TO UGANDA",
+				"time": 1675427932
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater"
+				"[auto] automatically marked: Cheater",
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
 			],
 			"steamid": "[U:1:1135766221]"
 		},
@@ -1571,11 +1645,12 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "COME TO UGANDA",
-				"time": 1674748062
+				"player_name": "(1)COME TO UGANDA",
+				"time": 1675430112
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater"
+				"[auto] automatically marked: Cheater",
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
 			],
 			"steamid": "[U:1:1146333791]"
 		},
@@ -1588,6 +1663,19 @@
 				"time": 1657034607
 			},
 			"steamid": "[U:1:1146660927]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "COME TO UGANDA",
+				"time": 1674991813
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1146713642]"
 		},
 		{
 			"attributes": [
@@ -1620,11 +1708,38 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(3)COME TO UGANDA",
-				"time": 1674748062
+				"player_name": "COME TO UGANDA",
+				"time": 1674991455
 			},
 			"proof": [
-				"[auto] automatically marked: Cheater"
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1147475389]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "COME TO UGANDA",
+				"time": 1674998816
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1147646439]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)COME TO UGANDA",
+				"time": 1674998878
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater",
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
 			],
 			"steamid": "[U:1:1147814469]"
 		},
@@ -1647,6 +1762,19 @@
 				"time": 1648047039
 			},
 			"steamid": "[U:1:1149974788]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "COME TO UGANDA",
+				"time": 1674998903
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1151680640]"
 		},
 		{
 			"attributes": [
@@ -1680,12 +1808,51 @@
 			],
 			"last_seen": {
 				"player_name": "(1)COME TO UGANDA",
+				"time": 1674988931
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1153039723]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)COME TO UGANDA",
 				"time": 1674748062
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater"
 			],
 			"steamid": "[U:1:1153113697]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "COME TO UGANDA",
+				"time": 1674988767
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1153127925]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "COME TO UGANDA",
+				"time": 1675430291
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN"
+			],
+			"steamid": "[U:1:1153185062]"
 		},
 		{
 			"attributes": [
@@ -5455,6 +5622,55 @@
 				"time": 1662566533
 			},
 			"steamid": "[U:1:1425680725]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":b",
+				"time": 1676217032
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1454362430]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pupungpupung03",
+				"time": 1676216783
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1455153531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lars",
+				"time": 1676217135
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1455385092]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "elgoofus",
+				"time": 1675435120
+			},
+			"steamid": "[U:1:1515455388]"
 		}
 	]
 }
