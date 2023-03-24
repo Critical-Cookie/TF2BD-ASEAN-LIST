@@ -4,7 +4,7 @@
 		"authors": [
 			"Critical-Cookie"
 		],
-		"description": "This is a Ruleset others can use for a BOT ONLY detection which I use to list bots found prominent in ASEAN servers such as Babyrage, Enigmaballz and EAC |Texashook",
+		"description": "This is a Ruleset others can use for a BOT ONLY detection which I use to list bots found prominent in ASEAN servers like EAC |Texashook",
 		"title": "TF2 Bot Detector ASEAN Ruleset!",
 		"update_url": "https://raw.githubusercontent.com/Critical-Cookie/TF2BD-ASEAN-LIST/main/rules.asean.json"
 	},
@@ -85,45 +85,6 @@
 					"cheater"
 				]
 			},
-			"description": "Enigmaballz ingame name - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Enigm",
-						"igmab",
-						"enigmaballz",
-						"irc.niggervalve:6667",
-						"Vivy Ophelia",
-						"MiraX"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "Enigmaballz STEAM name - TF2BD-ASEAN",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"lickass"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
 			"description": "Assassin BOTS - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
@@ -131,25 +92,6 @@
 					"mode": "ends_with",
 					"patterns": [
 						"Assassin"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "Enigmaballz Steam name - TF2BD-ASEAN",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"Enigm",
-						"igmab",
-						"disc.gg"
 					]
 				}
 			}
