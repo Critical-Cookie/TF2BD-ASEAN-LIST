@@ -211,23 +211,6 @@
 					"cheater"
 				]
 			},
-			"description": "Default Bot Steam Name detection! - TF2BD-ASEAN",
-			"triggers": {
-				"personaname_text_match": {
-					"case_sensitive": false,
-					"mode": "starts_with",
-					"patterns": [
-						"default"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
 			"description": "ilhamgod10# anya bot detection! - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
