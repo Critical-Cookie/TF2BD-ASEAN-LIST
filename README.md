@@ -1,7 +1,9 @@
 # TF2BD-ASEAN-LIST
 List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
-ASEAN region bots not found in the other lists or rules such as the 
-Enigmaballz Bots.
+ASEAN region bots not found in the other lists or rules.
+
+# **_I highly recommend using Surepy's more up to date fork of TF2BD with AutoReasons, the fork can be found at https://github.com/surepy/tf2_bot_detector_**
+**_PazerOP's original TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
 ## If you've been falsely marked, reach out to me either at the Discord below, or my complaint e-mail below
 
@@ -21,8 +23,6 @@ Legend:
 
 ###### Please keep in mind this is a HOBBY Project of mine, and as such, updates/responses to issues can either be constant or not til I return a century later :P.
 ###### If the issue is absolutely urgent (Rules false flagging innocents, or a false positive is incorrectly added to the list) I will reply, however please be patient, I am still a freshman after all.
-
-**_PazerOP's TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
 
 ## What are the use cases of either list or ruleset?
