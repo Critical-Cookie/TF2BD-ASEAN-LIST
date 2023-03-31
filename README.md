@@ -2,7 +2,7 @@
 List and Rules for TF2BD (TF2 Bot Detector by pazerOP). Designed for 
 ASEAN region bots not found in the other lists or rules.
 
-# **_I highly recommend using Surepy's more up to date fork of TF2BD with AutoReasons, the fork can be found at https://github.com/surepy/tf2_bot_detector_**
+## **_I highly recommend using Surepy's more up to date fork of TF2BD with features like AutoReasons, Party Chat warnings only you can see, Marking with Reasons, Marking via chat logs, better performance, working AutoUpdate, etc. the fork can be found at https://github.com/surepy/tf2_bot_detector_**
 **_PazerOP's original TF2 Bot Detector can be found at https://github.com/PazerOP/tf2_bot_detector_**
 
 ## If you've been falsely marked, reach out to me either at the Discord below, or my complaint e-mail below
