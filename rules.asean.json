@@ -128,8 +128,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"DoesHotter",
-						"7656119"
+						"DoesHotter"
 					]
 				}
 			}
