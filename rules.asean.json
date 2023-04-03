@@ -139,6 +139,24 @@
 					"cheater"
 				]
 			},
+			"description": "DoesHotter Bot Chat Detection - TF2BD-ASEAN",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter",
+						"youtube.com/@DoesHotterino"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
 			"description": "myg0t Bot Detection - TF2BD-ASEAN",
 			"triggers": {
 				"username_text_match": {
