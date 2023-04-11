@@ -4996,6 +4996,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "youtube.com/@SuperiorRobotRace",
+				"time": 1681226199
+			},
+			"proof": [
+				"SuperiorRobotRace Bot"
+			],
+			"steamid": "[U:1:1277487116]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "irc.niggervalve:6667",
 				"time": 1646325806
 			},
@@ -5978,6 +5991,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Jmartin075",
+				"time": 1680970915
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1478526861]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Skilight",
 				"time": 1678971999
 			},
@@ -5985,6 +6011,16 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1478697374]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "klosec12",
+				"time": 1680963103
+			},
+			"steamid": "[U:1:1481087715]"
 		},
 		{
 			"attributes": [
@@ -6034,6 +6070,19 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1525442340]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "crunchy-fuch",
+				"time": 1680524794
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1529160765]"
 		}
 	]
 }
