@@ -55,15 +55,16 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1676221411
+				"player_name": "76561197998781018",
+				"time": 1687451270
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
 				"[auto] automatically marked: Cheater | reason: OMEGATRONIC-based bot",
 				"[auto] automatically marked: Cheater | reason: \"WWW.LMAOBOX.\u200bNET - BEST TF2 HACKS!\"",
 				"[auto] automatically marked: Cheater | reason: \"GET GOOD GET LMAOBOX\"",
-				"[auto] automatically marked: Cheater | reason: \"LMAOBOX - WAY TO THE TOP \""
+				"[auto] automatically marked: Cheater | reason: \"LMAOBOX - WAY TO THE TOP \"",
+				"[auto] automatically marked: Cheater | reason: \"DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter \""
 			],
 			"steamid": "[U:1:38515290]"
 		},
@@ -561,6 +562,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\uc0c1\uccb4\ucda9\u200f",
+				"time": 1682190501
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: Generic name-stealing bot"
+			],
+			"steamid": "[U:1:233009026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "www.myg0t.win",
 				"time": 1645808192
 			},
@@ -758,6 +772,34 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u20b3w",
+				"time": 1686941086
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:396692865]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SkyNet - Discord.gg/WRgscGnCGe",
+				"time": 1686936583
+			},
+			"proof": [
+				"SkyNet bot",
+				"[auto] automatically marked: Cheater | reason: miscellaneous BOTS Steam Name - TF2BD-ASEAN",
+				"[auto] automatically marked: Cheater | reason: \"SkyNet  *Robots Only*  Discord.gg/WRgscGnCGe\""
+			],
+			"steamid": "[U:1:405773298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "DoesHotter",
 				"time": 1680181389
 			},
@@ -845,8 +887,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DoesHotter",
-				"time": 1680181425
+				"player_name": "76561198411600147",
+				"time": 1687451281
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
@@ -854,7 +896,8 @@
 				"[auto] automatically marked: Cheater | reason: \"(\u0e07'\u0300-'\u0301)\u0e07\"",
 				"[auto] automatically marked: Cheater | reason: \"(\u25d5\u203f\u25d5\u273f)\"",
 				"[auto] automatically marked: Cheater | reason: \"\u0f3c \u3064  \u0361\u00b0 \u035c\u0296 \u0361\u00b0 \u0f3d\u3064\"",
-				"[auto] automatically marked: Cheater | reason: \"( \u0361\u00b0 \u035c\u0296 \u0361\u00b0 )\""
+				"[auto] automatically marked: Cheater | reason: \"( \u0361\u00b0 \u035c\u0296 \u0361\u00b0 )\"",
+				"[auto] automatically marked: Cheater | reason: \"DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter DoesHotter \""
 			],
 			"steamid": "[U:1:451334419]"
 		},
@@ -1153,7 +1196,7 @@
 			],
 			"last_seen": {
 				"player_name": "DoesHotter",
-				"time": 1678626668
+				"time": 1681741080
 			},
 			"proof": [
 				"[auto] automatically marked: Cheater | reason: DoesHotter Bot Detection - TF2BD-ASEAN",
@@ -6076,6 +6119,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "lytwb",
+				"time": 1687010343
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1528885271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "crunchy-fuch",
 				"time": 1680524794
 			},
@@ -6083,6 +6139,97 @@
 				"Bot"
 			],
 			"steamid": "[U:1:1529160765]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ENOT",
+				"time": 1687010028
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1529356682]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u9019\u4e0d\u662f\u5e7b\u8c61\u5206\u8eab \u662f\u672c\u5c0a",
+				"time": 1687009968
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1529441591]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sus",
+				"time": 1687009577
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1529615868]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Taesoo",
+				"time": 1687010117
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1529712706]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ko36688",
+				"time": 1687009585
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1529914434]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "where is my bot channel",
+				"time": 1686936783
+			},
+			"proof": [
+				"Bot"
+			],
+			"steamid": "[U:1:1549186398]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)SkyNet - Discord.gg/WRgscGnC",
+				"time": 1686936602
+			},
+			"proof": [
+				"SkyNet Bot"
+			],
+			"steamid": "[U:1:1550982080]"
 		}
 	]
 }
